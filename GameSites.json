@@ -23,5 +23,11 @@
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/stickman_hook.png",
         "website_thumbnail": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOR7vJCr11gbYvROmPvqEjQIMnCn8uwxwgAZwYUqfGrPkanwTe3ufbXHYVraCdQv_K44ONdsYO1qRWEPNfRpO3PgGGSFlQ=w2695-h5827",
         "order": 4
+    }, {
+        "website_name": "mARIO",
+        "website_link": "https://supermarioplay.com/fullscreen",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/temple.png",
+        "website_thumbnail": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOR7vJCr11gbYvROmPvqEjQIMnCn8uwxwgAZwYUqfGrPkanwTe3ufbXHYVraCdQv_K44ONdsYO1qRWEPNfRpO3PgGGSFlQ=w2695-h5827",
+        "order": 5
     }]
 }
