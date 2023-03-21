@@ -3,31 +3,31 @@
         "website_name": "Temple Run 2",
         "website_link": "https://poki.com/en/g/temple-run-2",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/temple.png",
-        "website_thumbnail": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOR7vJCr11gbYvROmPvqEjQIMnCn8uwxwgAZwYUqfGrPkanwTe3ufbXHYVraCdQv_K44ONdsYO1qRWEPNfRpO3PgGGSFlQ=w2695-h5827",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Temple%20Run%202.png",
         "order": 1
     }, {
         "website_name": "Subway Surfers",
         "website_link": "https://poki.com/en/g/subway-surfers",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/SS.png",
-        "website_thumbnail": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOR7vJCr11gbYvROmPvqEjQIMnCn8uwxwgAZwYUqfGrPkanwTe3ufbXHYVraCdQv_K44ONdsYO1qRWEPNfRpO3PgGGSFlQ=w2695-h5827",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Subway%20Surfers.png",
         "order": 2
     }, {
         "website_name": "Jumping Shell",
         "website_link": "https://poki.com/en/g/jumping-shell",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/jumping_shell.png",
-        "website_thumbnail": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOR7vJCr11gbYvROmPvqEjQIMnCn8uwxwgAZwYUqfGrPkanwTe3ufbXHYVraCdQv_K44ONdsYO1qRWEPNfRpO3PgGGSFlQ=w2695-h5827",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Jumping%20Shell.png",
         "order": 3
     }, {
         "website_name": "Stickman Hook",
         "website_link": "https://poki.com/en/g/stickman-hook",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/stickman_hook.png",
-        "website_thumbnail": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOR7vJCr11gbYvROmPvqEjQIMnCn8uwxwgAZwYUqfGrPkanwTe3ufbXHYVraCdQv_K44ONdsYO1qRWEPNfRpO3PgGGSFlQ=w2695-h5827",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Stickman%20Hook.png",
         "order": 4
     }, {
         "website_name": "mARIO",
         "website_link": "https://supermarioplay.com/fullscreen",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/temple.png",
-        "website_thumbnail": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOR7vJCr11gbYvROmPvqEjQIMnCn8uwxwgAZwYUqfGrPkanwTe3ufbXHYVraCdQv_K44ONdsYO1qRWEPNfRpO3PgGGSFlQ=w2695-h5827",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Mario.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Mario.png",
         "order": 5
     }]
 }
