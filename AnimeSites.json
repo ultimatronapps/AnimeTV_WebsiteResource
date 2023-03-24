@@ -53,5 +53,11 @@
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/marin%20(1).jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/marin%20(1).png",
         "order": 9
+    }, {
+        "website_name": "Test",
+        "website_link": "https://marin.moe/",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/marin%20(1).jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/marin%20(1).png",
+        "order": 10
     }]
 }
