@@ -61,9 +61,9 @@
         "order": 10
     }, {
         "website_name": "Test2",
-        "website_link": "https://zoro.to/home",
-        "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/ZoroHotLogo.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230129_174137.png",
+        "website_link": "https://animesuge.to/home",
+        "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/SugeSuggested.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/Suge.png",
         "order": 10
     }]
 }
