@@ -53,11 +53,5 @@
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/marin%20(1).jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/marin%20(1).png",
         "order": 10
-    }, {
-        "website_name": "7Anime",
-        "website_link": "https://7anime.top/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/7anime%20fresh.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/7anime.png",
-        "order": 5
     }]
 }
