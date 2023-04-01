@@ -4,13 +4,13 @@
         "website_link": "https://www.asurascans.com/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230211_213645.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230211_213710.png",
-        "order": 3
+        "order": 4
     }, {
         "website_name": "FlameScans",
         "website_link": "https://flamescans.org/",
         "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/FlameScan.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/FlameScan.png",
-        "order": 4
+        "order": 7
     }, {
         "website_name": "MangaReader",
         "website_link": "https://mangareader.to/home",
@@ -28,7 +28,7 @@
         "website_link": "https://readm.org/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230211_214348.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230211_214256.png",
-        "order": 5
+        "order": 6
     }, {
         "website_name": "Reaper Scans",
         "website_link": "https://reaperscans.com/",
@@ -40,7 +40,7 @@
         "website_link": "https://void-scans.com/",
         "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/VoidScan.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/VoidScan.png",
-        "order": 7
+        "order": 8
     }, {
         "website_name": "nineAnime",
         "website_link": "https://www.nineanime.com/",
@@ -70,6 +70,12 @@
         "website_link": "https://mangabuddy.com/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/MangaBuddy%20New.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/MB%20favicon.png",
-        "order": 8
+        "order": 5
+    } {
+        "website_name": "ComicK",
+        "website_link": "https://comick.app/home",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/ComickApp%20New.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/ComickApp.png",
+        "order": 3
     }]
 }
