@@ -58,12 +58,12 @@
         "website_link": "https://animenana.com/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/AnimeNana%20New.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/animenana.png",
-        "order": 6
+        "order": 5
     }, {
         "website_name": "Gogo Anime",
         "website_link": "https://gogoanime.gr/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/GogoAnime%20New.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/GogoAnime.png",
-        "order": 5
+        "order": 6
     }]
 }
