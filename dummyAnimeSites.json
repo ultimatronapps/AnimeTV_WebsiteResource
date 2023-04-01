@@ -11,5 +11,11 @@
         "website_logo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTz_ZfdbYddv4Wqs3HO2mAtHiEiG3NCvo-eKJGvHwyWUpiluPX7KmDImSkpysAV3Cim9VmIOBDP_05j8RrzxmqlG0QU5A=w2695-h5827",
         "website_thumbnail": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOR7vJCr11gbYvROmPvqEjQIMnCn8uwxwgAZwYUqfGrPkanwTe3ufbXHYVraCdQv_K44ONdsYO1qRWEPNfRpO3PgGGSFlQ=w2695-h5827",
         "order": 2
+    }, {
+        "website_name": "animefly",
+        "website_link": "https://www3.animeflv.net/",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/AnimeFly%20New.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/animefly.png",
+        "order": 3
     }]
 }
