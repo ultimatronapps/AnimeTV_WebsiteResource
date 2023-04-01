@@ -17,5 +17,11 @@
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/AnimeFly%20New.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/animefly.png",
         "order": 3
+    }, {
+        "website_name": "AnimeIndo",
+        "website_link": "https://animeindo.cfd/",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/AnimeIndo%20New.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/AnimeIndo.png",
+        "order": 4
     }]
 }
