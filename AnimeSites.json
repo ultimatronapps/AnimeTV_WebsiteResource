@@ -70,12 +70,12 @@
         "website_link": "https://www3.animeflv.net/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/AnimeFly%20New.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/animefly.png",
-        "order": 7
+        "order": 5
     }, {
         "website_name": "AnimeIndo",
         "website_link": "https://animeindo.cfd/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/AnimeIndo%20New.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/AnimeIndo.png",
-        "order": 8
+        "order": 6
     }]
 }
