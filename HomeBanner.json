@@ -1,5 +1,5 @@
 {
-    "homebanner": [ {
+    "banner": [ {
         "title": "Temple Run 1",
         "titleTextColor": "#FFFFFF",
         "buttonName": "Watch Now",
@@ -9,18 +9,18 @@
         "order": 1
     }, {
         "title": "Temple Run 2",
-        "titleTextColor": "#FFFFFF",
+        "titleTextColor": "#AFAFAF",
         "buttonName": "Watch Now",
-        "buttonTextColor": "#FFFFFF",
-        "buttonBgColor": "#000000",
+        "buttonTextColor": "#AFAFAF",
+        "buttonBgColor": "#010101",
         "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/SS.png",
         "order": 2
     }, {
         "title": "Temple Run 3",
-        "titleTextColor": "#FFFFFF",
+        "titleTextColor": "#0F0F0F",
         "buttonName": "Watch Now",
-        "buttonTextColor": "#FFFFFF",
-        "buttonBgColor": "#000000",
+        "buttonTextColor": "#0F0F0F",
+        "buttonBgColor": "#909090",
         "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/jumping_shell.png",
         "order": 3
     }, {
