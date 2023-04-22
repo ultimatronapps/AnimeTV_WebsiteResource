@@ -1,35 +1,35 @@
 {
     "home_banner": [ {
-        "title": "Temple Run 1",
+        "title": "Dummy",
         "titleTextColor": "#FFFFFF",
         "buttonName": "Watch Now",
         "buttonTextColor": "#FFFFFF",
         "buttonBgColor": "#000000",
         "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/poki%20logo.png",
-        "order": 1
+        "order": 0
     }, {
-        "title": "Temple Run 2",
+        "title": "Temple Run 1",
         "titleTextColor": "#AFAFAF",
         "buttonName": "Watch Now",
         "buttonTextColor": "#AFAFAF",
         "buttonBgColor": "#010101",
         "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/SS.png",
-        "order": 2
+        "order": 1
     }, {
-        "title": "Temple Run 3",
+        "title": "Temple Run 2",
         "titleTextColor": "#0F0F0F",
         "buttonName": "Watch Now",
         "buttonTextColor": "#0F0F0F",
         "buttonBgColor": "#909090",
         "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/jumping_shell.png",
-        "order": 3
+        "order": 2
     }, {
-        "title": "Temple Run 4",
+        "title": "Temple Run 3",
         "titleTextColor": "#FFFFFF",
         "buttonName": "Watch Now",
         "buttonTextColor": "#FFFFFF",
         "buttonBgColor": "#000000",
         "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Mario.jpg",
-        "order": 4
+        "order": 3
     }]
 }
