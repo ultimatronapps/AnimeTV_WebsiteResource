@@ -1,11 +1,11 @@
 {
     "home_banner": [ {
-        "title": "Dummy",
+        "title": "For Native Ad",
         "titleTextColor": "#FFFFFF",
-        "buttonName": "Watch Now",
+        "buttonName": "",
         "buttonTextColor": "#FFFFFF",
         "buttonBgColor": "#000000",
-        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/poki%20logo.png",
+        "imageUrl": "",
         "order": 0
     }, {
         "title": "Temple Run 1",
