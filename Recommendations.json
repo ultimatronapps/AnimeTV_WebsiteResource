@@ -1,0 +1,30 @@
+{
+    "recommendation": [ {
+		"title": "Demon Slayer New Episodes out!",
+		"description": "Watch Now",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/SS.png",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230129_174137.png",
+		"actionUrl": "https://zoro.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090",
+		"domainName": "Zoro",
+		"homepage": "https://zoro.to/home",
+		"order": 1
+    }, {
+		"title": "Aot New Episodes out!",
+		"description": "Watch Now",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/SS.png",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230129_174137.png",
+		"actionUrl": "https://zoro.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090",
+		"domainName": "Zoro",
+		"homepage": "https://zoro.to/home",
+		"order": 2
+    }, {
+		"title": "DBZ New Episodes out!",
+		"description": "Watch Now",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/SS.png",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230129_174137.png",
+		"actionUrl": "https://zoro.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090",
+		"domainName": "Zoro",
+		"homepage": "https://zoro.to/home",
+		"order": 3
+    }]
+}
