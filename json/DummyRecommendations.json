@@ -1,0 +1,12 @@
+{
+    "recommendation": [ {
+		"title": "Explore Recommendations",
+		"description": "See more",
+		"banner": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTz_ZfdbYddv4Wqs3HO2mAtHiEiG3NCvo-eKJGvHwyWUpiluPX7KmDImSkpysAV3Cim9VmIOBDP_05j8RrzxmqlG0QU5A=w2695-h5827",
+		"thumbnail": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTz_ZfdbYddv4Wqs3HO2mAtHiEiG3NCvo-eKJGvHwyWUpiluPX7KmDImSkpysAV3Cim9VmIOBDP_05j8RrzxmqlG0QU5A=w2695-h5827",
+		"actionUrl": "file:///android_asset/html/error.html",
+		"domainName": "AniManga",
+		"homepage": "file:///android_asset/html/error.html",
+		"order": 1
+    }]
+}

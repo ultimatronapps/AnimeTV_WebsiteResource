@@ -1,0 +1,16 @@
+{
+    "home_banner": [ {
+        "title": "Welcome back!",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "",
+        "buttonTextColor": "#FFFFFF",
+        "buttonBgColor": "#000000",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/SS.png",
+	"actionUrl": "",
+	"domainName": "",
+	"homepage": "",
+	"thumbnail": "",
+	"isExternal": false,
+        "order": 0
+    }]
+}
