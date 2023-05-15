@@ -2,14 +2,14 @@
     "anime": [ {
         "website_name": "9Anime",
         "website_link": "https://9anime.pl/home",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/images%20(1)%20(18).jpeg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230129_173723(1).png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/9anime.jpeg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/9anime.png",
         "order": 4
     }, {
         "website_name": "AnimeDao",
         "website_link": "https://animedao.to/",
-        "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/AnimeDao.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/AnimeDao.png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AnimeDao.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AnimeDao.png",
         "order": 7
     }, {
         "website_name": "AllAnime",
@@ -20,62 +20,62 @@
     }, {
         "website_name": "Anime Suge",
         "website_link": "https://animesuge.to/home",
-        "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/SugeSuggested.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/Suge.png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Suge.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
         "order": 2
     }, {
         "website_name": "AnimePahe",
         "website_link": "www.animepahe.ru",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230129_181617.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230129_181656.png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/animepahe.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/animepahe.png",
         "order": 8
     }, {
         "website_name": "AnimixPlay",
         "website_link": "https://animixplay.sc/homepage/",
-        "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/Animix.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/Animix.png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Animix.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Animix.png",
         "order": 9
     }, {
         "website_name": "Yugen",
         "website_link": "https://yugen.to/",
-        "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/Yugen_BetterUI.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230129_172631(1).png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Yugen_BetterUI.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Yugen.png",
         "order": 3
     }, {
         "website_name": "Zoro",
         "website_link": "https://zoro.to/home",
-        "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/ZoroHotLogo.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230129_174137.png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/ZoroHotLogo.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
         "order": 1
     }, {
         "website_name": "marin",
         "website_link": "https://marin.moe/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/marin%20(1).jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/marin%20(1).png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/marin.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/marin.png",
         "order": 10
     }, {
         "website_name": "AnimeNana",
         "website_link": "https://animenana.com/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/AnimeNana%20New.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/animenana.png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AnimeNana.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/animenana.png",
         "order": 5
     }, {
         "website_name": "Gogo Anime",
         "website_link": "https://gogoanime.gr/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/GogoAnime%20New.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/GogoAnime.png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/GogoAnime.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/GogoAnime.png",
         "order": 6
     }, {
         "website_name": "animeflv",
         "website_link": "https://www3.animeflv.net/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/AnimeFly%20New.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/animefly.png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AnimeFly.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/animefly.png",
         "order": 5
     }, {
         "website_name": "AnimeIndo",
         "website_link": "https://animeindo.cfd/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/AnimeIndo%20New.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/AnimeIndo.png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AnimeIndo.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AnimeIndo.png",
         "order": 6
     }]
 }
