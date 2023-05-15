@@ -14,8 +14,8 @@
     }, {
         "website_name": "AllAnime",
         "website_link": "https://allanime.to/anime",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/AllAnime.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/allanime.png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AllAnime.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/allanime.png",
         "order": 11
     }, {
         "website_name": "Anime Suge",
