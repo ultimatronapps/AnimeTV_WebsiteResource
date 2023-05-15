@@ -1,0 +1,81 @@
+{
+    "manga": [ {
+        "website_name": "AuraScans",
+        "website_link": "https://www.asurascans.com/",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230211_213645.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230211_213710.png",
+        "order": 4
+    }, {
+        "website_name": "FlameScans",
+        "website_link": "https://flamescans.org/",
+        "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/FlameScan.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/FlameScan.png",
+        "order": 8
+    }, {
+        "website_name": "MangaReader",
+        "website_link": "https://mangareader.to/home",
+        "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/MR_Suggested.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230227_044558.png",
+        "order": 1
+    }, {
+        "website_name": "Manga Fire",
+        "website_link": "https://mangafire.to/home",
+        "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/MF_Suggested.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230221_034912.png",
+        "order": 2
+    }, {
+        "website_name": "readm",
+        "website_link": "https://readm.org/",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230211_214348.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230211_214256.png",
+        "order": 7
+    }, {
+        "website_name": "Reaper Scans",
+        "website_link": "https://reaperscans.com/",
+        "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/RS.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/RS.png",
+        "order": 10
+    }, {
+        "website_name": "Void Scans",
+        "website_link": "https://void-scans.com/",
+        "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/VoidScan.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/VoidScan.png",
+        "order": 9
+    }, {
+        "website_name": "nineAnime",
+        "website_link": "https://www.nineanime.com/",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/nine.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230211_213849.png",
+        "order": 11
+    }, {
+        "website_name": "Manga Komi",
+        "website_link": "https://mangakomi.io/",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230211_214410.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230211_214542.png",
+        "order": 12
+    }, {
+        "website_name": "Manhwaz",
+        "website_link": "https://manhwaz.com/",
+        "website_logo": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/Manhwaz.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/MSMDI/AnimeTV_WebsiteResource/main/Manhwaz.png",
+        "order": 13
+    }, {
+        "website_name": "NDRO MZ",
+        "website_link": "https://ndrozone.com/",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Ndrozone%20New.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/ndrozone.png",
+        "order": 6
+    }, {
+        "website_name": "MangaBuddy",
+        "website_link": "https://mangabuddy.com/home",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/MangaBuddy%20New.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/MB%20favicon.png",
+        "order": 5
+    }, {
+        "website_name": "ComicK",
+        "website_link": "https://comick.app/home",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/ComickApp%20New.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/ComickApp.png",
+        "order": 3
+    }]
+}
