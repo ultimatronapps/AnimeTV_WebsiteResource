@@ -3677,3 +3677,5 @@ interstitial-07.com
 youtube.com/api/stats/qoe?
 google.com/pagead/
 youtube.com/pagead/
+/log_event?
+youtube.com/ptracking?
