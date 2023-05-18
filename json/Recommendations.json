@@ -44,5 +44,14 @@
 		"domainName": "Zoro",
 		"homepage": "https://zoro.to/home",
 		"order": 5
+    }, {
+		"title": "Vinland Saga Season 2",
+		"description": "Action, Adventure, Drama",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Screenshot%202023-05-18%20193315.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
+		"actionUrl": "https://animesuge.to/anime/vinland-saga-season-2-kwo44/ep-1",
+		"domainName": "Anime Suge",
+		"homepage": "https://animesuge.to/home",
+		"order": 6
     }]
 }
