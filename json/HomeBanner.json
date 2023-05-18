@@ -51,5 +51,18 @@
 	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
 	"isExternal": false,
         "order": 3
+    }, {
+        "title": "Vinland Saga Season 2",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "Watch Now",
+        "buttonTextColor": "#FFFFFF",
+        "buttonBgColor": "#4285F4",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Banner%204.jpg",
+	"actionUrl": "https://animesuge.to/anime/vinland-saga-season-2-kwo44/ep-1",
+	"domainName": "Anime Suge",
+	"homepage": "https://animesuge.to/home",
+	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
+	"isExternal": false,
+        "order": 4
     }]
 }
