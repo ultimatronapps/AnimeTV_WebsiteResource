@@ -54,13 +54,13 @@
 		"homepage": "https://animesuge.to/home",
 		"order": 6
     }, {
-		"title": "Vinland Saga Season 2",
-		"description": "Action, Adventure, Drama",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Screenshot%202023-05-18%20193315.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
-		"actionUrl": "https://animesuge.to/anime/vinland-saga-season-2-kwo44/ep-1",
-		"domainName": "Anime Suge",
-		"homepage": "https://animesuge.to/home",
+		"title": "My Love Story with Yamada-kun at Lv999",
+		"description": "Romance",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/.pending-1685784514-images%20(1).jpeg",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/9anime.png",
+		"actionUrl": "https://9anime.pl/watch/yamada-kun-to-lv999-no-koi-wo-suru.w15r6/ep-1",
+		"domainName": "9anime",
+		"homepage": "https://9anime.pl/home",
 		"order": 7
     }]
 }
