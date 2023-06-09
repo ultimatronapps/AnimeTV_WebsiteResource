@@ -1,7 +1,7 @@
 {
     "anime": [ {
         "website_name": "9Anime",
-        "website_link": "https://9anime.pl/home",
+        "website_link": "https://9animetv.to/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/9anime.jpeg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/9anime.png",
         "order": 4
@@ -40,7 +40,7 @@
         "website_link": "https://yugen.to/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Yugen_BetterUI.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Yugen.png",
-        "order": 3
+        "order": 0
     }, {
         "website_name": "Zoro",
         "website_link": "https://zoro.to/home",
