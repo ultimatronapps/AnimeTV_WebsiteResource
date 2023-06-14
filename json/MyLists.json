@@ -1,5 +1,7 @@
 {
-    "my_lists": [ {
+    "my_lists": [ 
+	{
+		"order" : 1,
 		"List 1": [ {
 			"title": "One Piece",
 			"description": "Action, Adventure, Fantasy",
@@ -72,7 +74,10 @@
 			"domainName": "Yugen",
 			"homepage": "https://yugenanime.tv/",
 			"order": -1
-		}],
+		}]
+	},
+	{
+		"order": 2,
 	    "List 2": [ {
 			"title": "One Piece",
 			"description": "Action, Adventure, Fantasy",
@@ -145,7 +150,10 @@
 			"domainName": "Yugen",
 			"homepage": "https://yugenanime.tv/",
 			"order": -1
-		}],
+		}]
+	},
+	{
+		"order": 3,
 	    "List 3": [ {
 			"title": "One Piece",
 			"description": "Action, Adventure, Fantasy",
@@ -219,7 +227,8 @@
 			"homepage": "https://yugenanime.tv/",
 			"order": -1
 		}]
+	}
 
 
-	}]
+	]
 }
