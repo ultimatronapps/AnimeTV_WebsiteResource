@@ -5,7 +5,7 @@
 		"List 1": [ {
 		"title": "Rec Anime 1",
 		"description": "Action, Adventure, Fantasy",
-		"banner": "",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/abstract-black-stripes-diagonal-background-free-vector.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 		"actionUrl": "file:///android_asset/html/error.html",
 		"domainName": "Zoro",
@@ -14,7 +14,7 @@
              }, {
 		"title": "Rec Anime 2",
 		"description": "Action, Adventure, Fantasy",
-		"banner": "",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/abstract-black-stripes-diagonal-background-free-vector.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
 		"actionUrl": "file:///android_asset/html/error.html",
 		"domainName": "MangaReader",
