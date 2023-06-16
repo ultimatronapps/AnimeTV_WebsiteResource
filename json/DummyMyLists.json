@@ -3,230 +3,24 @@
 	{
 		"order" : 4,
 		"List 1": [ {
-			"title": "One Piece",
-			"description": "Action, Adventure, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/desktop-wallpaper-one-piece-wano-arc-anime-one-piece-wano-country-arc.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
-			"domainName": "Zoro",
-			"homepage": "https://zoro.to/home",
-			"order": 1
-		}, {
-			"title": "Solo Leveling",
-			"description": "Action, Adventure, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/1061827.png",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
-			"actionUrl": "https://mangareader.to/read/solo-leveling-21/en/chapter-0",
-			"domainName": "MangaReader",
-			"homepage": "https://mangareader.to/home",
-			"order": 2
-		}, {
-			"title": "Mashle: Magic and Muscles",
-			"description": "Action, Comedy, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/1305364.jpeg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-			"actionUrl": "https://zoro.to/watch/mashle-magic-and-muscles-18339?ep=100069",
-			"domainName": "Zoro",
-			"homepage": "https://zoro.to/home",
-			"order": 3
-		}, {
-			"title": "Demon Slayer: Swordsmith Village Arc",
-			"description": "Action, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/maxresdefault.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-			"actionUrl": "https://zoro.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090",
-			"domainName": "Zoro",
-			"homepage": "https://zoro.to/home",
-			"order": 4
-		}, {
-			"title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
-			"description": "Action, Adventure, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/vGcu194Jk4I06u69iNf2rhU3d62.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-			"actionUrl": "https://zoro.to/watch/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-18343?ep=99965",
-			"domainName": "Zoro",
-			"homepage": "https://zoro.to/home",
-			"order": 5
-		}, {
-			"title": "Vinland Saga Season 2",
-			"description": "Action, Adventure, Drama",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Screenshot%202023-05-18%20193315.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
-			"actionUrl": "https://animesuge.to/anime/vinland-saga-season-2-kwo44/ep-1",
-			"domainName": "Anime Suge",
-			"homepage": "https://animesuge.to/home",
-			"order": 6
-		}, {
-			"title": "My Love Story with Yamada-kun at Lv999",
-			"description": "Romance",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/.pending-1685784514-images%20(1).jpeg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/9anime.png",
-			"actionUrl": "https://9anime.pl/watch/yamada-kun-to-lv999-no-koi-wo-suru.w15r6/ep-1",
-			"domainName": "9anime",
-			"homepage": "https://9anime.pl/home",
-			"order": 7
-		}, {
-			"title": "Bleach: Thousand-Year Blood War",
-			"description": "Action, Adventure, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/pending-1686410901-images.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Yugen.png",
-			"actionUrl": "https://yugenanime.tv/watch/15983/bleach-sennen-kessen-hen/1/",
-			"domainName": "Yugen",
-			"homepage": "https://yugenanime.tv/",
-			"order": -1
-		}]
-	},
-	{
-		"order": 2,
-	    "List 2": [ {
-			"title": "One Piece",
-			"description": "Action, Adventure, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/desktop-wallpaper-one-piece-wano-arc-anime-one-piece-wano-country-arc.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
-			"domainName": "Zoro",
-			"homepage": "https://zoro.to/home",
-			"order": 1
-		}, {
-			"title": "Solo Leveling",
-			"description": "Action, Adventure, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/1061827.png",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
-			"actionUrl": "https://mangareader.to/read/solo-leveling-21/en/chapter-0",
-			"domainName": "MangaReader",
-			"homepage": "https://mangareader.to/home",
-			"order": 2
-		}, {
-			"title": "Mashle: Magic and Muscles",
-			"description": "Action, Comedy, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/1305364.jpeg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-			"actionUrl": "https://zoro.to/watch/mashle-magic-and-muscles-18339?ep=100069",
-			"domainName": "Zoro",
-			"homepage": "https://zoro.to/home",
-			"order": 3
-		}, {
-			"title": "Demon Slayer: Swordsmith Village Arc",
-			"description": "Action, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/maxresdefault.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-			"actionUrl": "https://zoro.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090",
-			"domainName": "Zoro",
-			"homepage": "https://zoro.to/home",
-			"order": 4
-		}, {
-			"title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
-			"description": "Action, Adventure, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/vGcu194Jk4I06u69iNf2rhU3d62.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-			"actionUrl": "https://zoro.to/watch/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-18343?ep=99965",
-			"domainName": "Zoro",
-			"homepage": "https://zoro.to/home",
-			"order": 5
-		}, {
-			"title": "Vinland Saga Season 2",
-			"description": "Action, Adventure, Drama",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Screenshot%202023-05-18%20193315.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
-			"actionUrl": "https://animesuge.to/anime/vinland-saga-season-2-kwo44/ep-1",
-			"domainName": "Anime Suge",
-			"homepage": "https://animesuge.to/home",
-			"order": 6
-		}, {
-			"title": "My Love Story with Yamada-kun at Lv999",
-			"description": "Romance",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/.pending-1685784514-images%20(1).jpeg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/9anime.png",
-			"actionUrl": "https://9anime.pl/watch/yamada-kun-to-lv999-no-koi-wo-suru.w15r6/ep-1",
-			"domainName": "9anime",
-			"homepage": "https://9anime.pl/home",
-			"order": 7
-		}, {
-			"title": "Bleach: Thousand-Year Blood War",
-			"description": "Action, Adventure, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/pending-1686410901-images.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Yugen.png",
-			"actionUrl": "https://yugenanime.tv/watch/15983/bleach-sennen-kessen-hen/1/",
-			"domainName": "Yugen",
-			"homepage": "https://yugenanime.tv/",
-			"order": -1
-		}]
-	},
-	{
-		"order": 3,
-	    "List 3": [ {
-			"title": "One Piece",
-			"description": "Action, Adventure, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/desktop-wallpaper-one-piece-wano-arc-anime-one-piece-wano-country-arc.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
-			"domainName": "Zoro",
-			"homepage": "https://zoro.to/home",
-			"order": 1
-		}, {
-			"title": "Solo Leveling",
-			"description": "Action, Adventure, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/1061827.png",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
-			"actionUrl": "https://mangareader.to/read/solo-leveling-21/en/chapter-0",
-			"domainName": "MangaReader",
-			"homepage": "https://mangareader.to/home",
-			"order": 2
-		}, {
-			"title": "Mashle: Magic and Muscles",
-			"description": "Action, Comedy, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/1305364.jpeg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-			"actionUrl": "https://zoro.to/watch/mashle-magic-and-muscles-18339?ep=100069",
-			"domainName": "Zoro",
-			"homepage": "https://zoro.to/home",
-			"order": 3
-		}, {
-			"title": "Demon Slayer: Swordsmith Village Arc",
-			"description": "Action, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/maxresdefault.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-			"actionUrl": "https://zoro.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090",
-			"domainName": "Zoro",
-			"homepage": "https://zoro.to/home",
-			"order": 4
-		}, {
-			"title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
-			"description": "Action, Adventure, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/vGcu194Jk4I06u69iNf2rhU3d62.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-			"actionUrl": "https://zoro.to/watch/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-18343?ep=99965",
-			"domainName": "Zoro",
-			"homepage": "https://zoro.to/home",
-			"order": 5
-		}, {
-			"title": "Vinland Saga Season 2",
-			"description": "Action, Adventure, Drama",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Screenshot%202023-05-18%20193315.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
-			"actionUrl": "https://animesuge.to/anime/vinland-saga-season-2-kwo44/ep-1",
-			"domainName": "Anime Suge",
-			"homepage": "https://animesuge.to/home",
-			"order": 6
-		}, {
-			"title": "My Love Story with Yamada-kun at Lv999",
-			"description": "Romance",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/.pending-1685784514-images%20(1).jpeg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/9anime.png",
-			"actionUrl": "https://9anime.pl/watch/yamada-kun-to-lv999-no-koi-wo-suru.w15r6/ep-1",
-			"domainName": "9anime",
-			"homepage": "https://9anime.pl/home",
-			"order": 7
-		}, {
-			"title": "Bleach: Thousand-Year Blood War",
-			"description": "Action, Adventure, Fantasy",
-			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/pending-1686410901-images.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Yugen.png",
-			"actionUrl": "https://yugenanime.tv/watch/15983/bleach-sennen-kessen-hen/1/",
-			"domainName": "Yugen",
-			"homepage": "https://yugenanime.tv/",
-			"order": -1
-		}]
+		"title": "Rec Anime 1",
+		"description": "Action, Adventure, Fantasy",
+		"banner": "",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+		"actionUrl": "file:///android_asset/html/error.html",
+		"domainName": "Zoro",
+		"homepage": "file:///android_asset/html/error.html",
+		"order": 1
+             }, {
+		"title": "Rec Anime 2",
+		"description": "Action, Adventure, Fantasy",
+		"banner": "",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+		"actionUrl": "file:///android_asset/html/error.html",
+		"domainName": "MangaReader",
+		"homepage": "file:///android_asset/html/error.html",
+		"order": 2
+             }]
 	}
 
 
