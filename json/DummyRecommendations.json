@@ -10,11 +10,11 @@
         "isExternal": false,
 		"order": 1
     }, {
-		"title": "Solo Leveling",
-		"description": "Action, Adventure, Fantasy",
+		"title": "AniManga",
+		"description": "Watch Anime Read Manga",
 		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/1061827.png",
 		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
-		"actionUrl": "https://mangareader.to/read/solo-leveling-21/en/chapter-0",
+		"actionUrl": "https://play.google.com/store/apps/details?id=com.pheenix.anime",
 		"domainName": "MangaReader",
 		"homepage": "https://mangareader.to/home",
         "isExternal": true,
