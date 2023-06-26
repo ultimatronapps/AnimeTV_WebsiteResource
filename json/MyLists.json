@@ -252,6 +252,72 @@
 			"homepage": "https://mangareader.to/home",
 			"order": 7
 		}]
+	}, {
+		"order": 4,
+	    "Manhwa/Webtoon Recommendation": [ {
+			"title": "Solo Leveling",
+			"description": "Action, Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/manga/3/222295.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/read/solo-leveling-21/en/chapter-0",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 1
+		}, {
+			"title": "The Legend of the Northern Blade",
+			"description": "Action, Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/manga/3/243483.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/read/the-legend-of-the-northern-blade-44695/en/chapter-1",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 2
+		}, {
+			"title": "Eleceed",
+			"description": "Action",
+			"banner": "https://cdn.myanimelist.net/images/manga/1/260660.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/read/eleceed-56270/en/chapter-1",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 3
+		}, {
+			"title": "Omniscient Reader",
+			"description": "Action, Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/manga/2/238873.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/read/omniscient-readers-viewpoint-56178/en/chapter-0",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 4
+		}, {
+			"title": "The Greatest Estate Developer",
+			"description": "Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/manga/1/263543.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/read/the-greatest-estate-developer-60044/en/chapter-1",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 5
+		}, {
+			"title": "Noblesse",
+			"description": "Action, Adventure, Comedy, Supernatural",
+			"banner": "https://cdn.myanimelist.net/images/manga/2/266261.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaFire.png",
+			"actionUrl": "https://mangafire.to/read/noblesse.2p5/en/chapter-1",
+			"domainName": "Manga Fire",
+			"homepage": "https://mangafire.to/home",
+			"order": 6
+		}, {
+			"title": "The Remarried Empress",
+			"description": "Drama, Fantasy, Romance",
+			"banner": "https://cdn.myanimelist.net/images/manga/1/235295.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/read/the-remarried-empress-587/en/chapter-1",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 7
+		}]
 	}
 
 
