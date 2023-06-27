@@ -318,6 +318,180 @@
 			"homepage": "https://mangareader.to/home",
 			"order": 7
 		}]
+	}, {
+		"order": 5,
+	    "Top Action Animes": [ {
+			"title": "Shingeki no Kyojin",
+			"description": "Action, Award Winning, Drama, Suspense",
+			"banner": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+			"actionUrl": "https://zoro.to/watch/attack-on-titan-112?ep=3303",
+			"domainName": "Zoro",
+			"homepage": "https://zoro.to/home",
+			"order": 1
+		}, {
+			"title": "Fullmetal Alchemist: Brotherhood",
+			"description": "Action, Adventure, Drama, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+			"actionUrl": "https://zoro.to/watch/fullmetal-alchemist-brotherhood-1?ep=1",
+			"domainName": "Zoro",
+			"homepage": "https://zoro.to/home",
+			"order": 2
+		}, {
+			"title": "One Punch Man",
+			"description": "Action, Comedy",
+			"banner": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+			"actionUrl": "https://zoro.to/watch/one-punch-man-63?ep=1501",
+			"domainName": "Zoro",
+			"homepage": "https://zoro.to/home",
+			"order": 3
+		}, {
+			"title": "Sword Art Online",
+			"description": "Action, Adventure, Fantasy, Romance",
+			"banner": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+			"actionUrl": "https://zoro.to/watch/sword-art-online-2274?ep=26565",
+			"domainName": "Zoro",
+			"homepage": "https://zoro.to/home",
+			"order": 4
+		}, {
+			"title": "Boku no Hero Academia",
+			"description": "Action",
+			"banner": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+			"actionUrl": "https://zoro.to/watch/my-hero-academia-322?ep=6210",
+			"domainName": "Zoro",
+			"homepage": "https://zoro.to/home",
+			"order": 5
+		}, {
+			"title": "Kimetsu no Yaiba",
+			"description": "Action, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
+			"actionUrl": "https://animesuge.to/anime/demon-slayer-kimetsu-no-yaiba-6q67/ep-1",
+			"domainName": "Anime Suge",
+			"homepage": "https://animesuge.to/home",
+			"order": 6
+		}, {
+			"title": "Naruto",
+			"description": "Action, Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
+			"actionUrl": "https://animesuge.to/anime/naruto-xx8z/ep-1",
+			"domainName": "Anime Suge",
+			"homepage": "https://animesuge.to/home",
+			"order": 7
+		}, {
+			"title": "Tokyo Ghoul",
+			"description": "Action, Fantasy, Horror",
+			"banner": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
+			"actionUrl": "https://animesuge.to/anime/tokyo-ghoul-7w06/ep-1",
+			"domainName": "Anime Suge",
+			"homepage": "https://animesuge.to/home",
+			"order": 8
+		}, {
+			"title": "Hunter x Hunter (2011)",
+			"description": "Action, Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
+			"actionUrl": "https://animesuge.to/anime/hunter-x-hunter-2011-295/ep-1",
+			"domainName": "Anime Suge",
+			"homepage": "https://animesuge.to/home",
+			"order": 9
+		}, {
+			"title": "Jujutsu Kaisen",
+			"description": "Action, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
+			"actionUrl": "https://animesuge.to/anime/jujutsu-kaisen-32n8/ep-1",
+			"domainName": "Anime Suge",
+			"homepage": "https://animesuge.to/home",
+			"order": 10
+		}, {
+			"title": "One Piece",
+			"description": "Action, Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
+			"actionUrl": "https://animesuge.to/anime/one-piece-ov8/ep-1",
+			"domainName": "Anime Suge",
+			"homepage": "https://animesuge.to/home",
+			"order": 11
+		}, {
+			"title": "Code Geass: Hangyaku no Lelouch",
+			"description": "Action, Drama, Sci-Fi",
+			"banner": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+			"actionUrl": "https://zoro.to/watch/code-geass-lelouch-of-the-rebellion-41?ep=1158",
+			"domainName": "Zoro",
+			"homepage": "https://zoro.to/home",
+			"order": 12
+		}, {
+			"title": "Noragami",
+			"description": "Action, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1886/128266.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+			"actionUrl": "https://zoro.to/watch/noragami-491?ep=10015",
+			"domainName": "Zoro",
+			"homepage": "https://zoro.to/home",
+			"order": 13
+		}, {
+			"title": "Akame ga Kill!",
+			"description": "Action, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+			"actionUrl": "https://zoro.to/watch/akame-ga-kill-1329?ep=19306",
+			"domainName": "Zoro",
+			"homepage": "https://zoro.to/home",
+			"order": 14
+		}, {
+			"title": "Nanatsu no Taizai",
+			"description": "Action, Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/8/65409.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+			"actionUrl": "https://zoro.to/watch/the-seven-deadly-sins-561?ep=10966",
+			"domainName": "Zoro",
+			"homepage": "https://zoro.to/home",
+			"order": 15
+		}, {
+			"title": "Mob Psycho 100",
+			"description": "Action, Comedy, Supernatural",
+			"banner": "https://cdn.myanimelist.net/images/anime/8/80356.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+			"actionUrl": "https://zoro.to/watch/mob-psycho-100-101?ep=3087",
+			"domainName": "Zoro",
+			"homepage": "https://zoro.to/home",
+			"order": 16
+		}, {
+			"title": "Mirai Nikki (TV)",
+			"description": "Action, Suspense, Supernatural",
+			"banner": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+			"actionUrl": "https://zoro.to/watch/the-future-diary-1281?ep=18677",
+			"domainName": "Zoro",
+			"homepage": "https://zoro.to/home",
+			"order": 17
+		}, {
+			"title": "Ansatsu Kyoushitsu",
+			"description": "Action, Comedy",
+			"banner": "https://cdn.myanimelist.net/images/anime/5/75639.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+			"actionUrl": "https://zoro.to/watch/assassination-classroom-372?ep=8586",
+			"domainName": "Zoro",
+			"homepage": "https://zoro.to/home",
+			"order": 18
+		}, {
+			"title": "Bleach",
+			"description": "Action, Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/3/40451.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+			"actionUrl": "https://zoro.to/watch/bleach-806?ep=13793",
+			"domainName": "Zoro",
+			"homepage": "https://zoro.to/home",
+			"order": 19
+		}]
 	}
 
 
