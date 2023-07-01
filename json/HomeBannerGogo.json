@@ -27,7 +27,7 @@
         "order": 1
     }, {
         "title": " Hell's Paradise",
-        "titleTextColor": "#1b1b1b",
+        "titleTextColor": "#FFFFFF",
         "buttonName": "Watch Now",
         "buttonTextColor": "#1b1b1b",
         "buttonBgColor": "#fcb040",
@@ -40,7 +40,7 @@
         "order": 2
     }, {
         "title": "Blue Lock Manga",
-        "titleTextColor": "#1b1b1b",
+        "titleTextColor": "#FFFFFF",
         "buttonName": "Read Now",
         "buttonTextColor": "#1b1b1b",
         "buttonBgColor": "#fcb040",
@@ -53,7 +53,7 @@
         "order": 3
     }, {
         "title": "Vinland Saga Season 2",
-        "titleTextColor": "#1b1b1b",
+        "titleTextColor": "#FFFFFF",
         "buttonName": "Watch Now",
         "buttonTextColor": "#1b1b1b",
         "buttonBgColor": "#fcb040",
