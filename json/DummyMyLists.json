@@ -320,6 +320,7 @@
 		}]
 	}, {
 		"order": 5,
+		"orientation": "Landscape",
 	    "Top Action Animes": [ {
 			"title": "Shingeki no Kyojin",
 			"description": "Action, Drama, Suspense",
