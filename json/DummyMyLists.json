@@ -263,6 +263,7 @@
 			"actionUrl": "https://mangareader.to/read/solo-leveling-21/en/chapter-0",
 			"domainName": "MangaReader",
 			"homepage": "https://mangareader.to/home",
+			"isExternal": true,
 			"order": 1
 		}, {
 			"title": "The Legend of the Northern Blade",
