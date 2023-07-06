@@ -13,12 +13,12 @@
 	"isExternal": false,
         "order": 0
     }, {
-        "title": "Demon Slayer New Season",
+        "title": ".",
         "titleTextColor": "#FFFFFF",
-        "buttonName": "Watch Now",
+        "buttonName": "Please Wait",
         "buttonTextColor": "#202125",
         "buttonBgColor": "#cae962",
-        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Banner%201.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230706_144238.jpg",
 	"actionUrl": "https://sanji.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=102021",
 	"domainName": "Zoro",
 	"homepage": "https://zoro.to/home",
