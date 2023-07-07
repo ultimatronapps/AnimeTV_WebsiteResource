@@ -19,11 +19,11 @@
         "buttonTextColor": "#202125",
         "buttonBgColor": "#cae962",
         "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/20230707_110039.jpg",
-	"actionUrl": "https://sanji.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=102021",
+	"actionUrl": "https://play.google.com/store/apps/details?id=com.pheenix.zoro",
 	"domainName": "Zoro",
 	"homepage": "https://zoro.to/home",
 	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-	"isExternal": false,
+	"isExternal": true,
         "order": 1
     }, {
         "title": " Hell's Paradise",
