@@ -1,0 +1,68 @@
+{
+    "home_banner": [ {
+        "title": "Welcome back!",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "",
+        "buttonTextColor": "#FFFFFF",
+        "buttonBgColor": "#000000",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/SS.png",
+	"actionUrl": "",
+	"domainName": "",
+	"homepage": "",
+	"thumbnail": "",
+	"isExternal": false,
+        "order": 0
+    }, {
+        "title": "Demon Slayer Swordsmith Village Arc",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "Watch Now",
+        "buttonTextColor": "#242428",
+        "buttonBgColor": "#ffdd95",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Banner%201.jpg",
+	"actionUrl": "https://zoro.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090",
+	"domainName": "Zoro",
+	"homepage": "https://zoro.to/home",
+	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+	"isExternal": false,
+        "order": 1
+    }, {
+        "title": " Hell's Paradise",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "Watch Now",
+        "buttonTextColor": "#242428",
+        "buttonBgColor": "#ffdd95",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Banner%202.jpg",
+	"actionUrl": "https://zoro.to/watch/hells-paradise-18332?ep=99938",
+	"domainName": "Zoro",
+	"homepage": "https://zoro.to/home",
+	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
+	"isExternal": false,
+        "order": 2
+    }, {
+        "title": "Blue Lock Manga",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "Read Now",
+        "buttonTextColor": "#242428",
+        "buttonBgColor": "#ffdd95",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Banner%203.jpg",
+	"actionUrl": "https://mangareader.to/read/blue-lock-225/en/chapter-1",
+	"domainName": "MangaReader",
+	"homepage": "https://mangareader.to/home",
+	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+	"isExternal": false,
+        "order": 3
+    }, {
+        "title": "Vinland Saga Season 2",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "Watch Now",
+        "buttonTextColor": "#242428",
+        "buttonBgColor": "#ffdd95",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Banner%204.jpg",
+	"actionUrl": "https://animesuge.to/anime/vinland-saga-season-2-kwo44/ep-1",
+	"domainName": "Anime Suge",
+	"homepage": "https://animesuge.to/home",
+	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
+	"isExternal": false,
+        "order": 4
+    }]
+}
