@@ -160,15 +160,6 @@
 			"homepage": "https://aniwatch.to/home",
 			"order": 7
 		}, {
-			"title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
-			"description": " Action, Comedy, Fantasy",
-			"banner": "https://cdn.myanimelist.net/images/anime/1892/133677.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
-			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
-			"domainName": "Zoro/AniWatch",
-			"homepage": "https://aniwatch.to/home",
-			"order": 8
-		}, {
 			"title": "Kanojo, Okarishimasu 3rd Season",
 			"description": "Comedy, Romance",
 			"banner": "https://cdn.myanimelist.net/images/anime/1696/136634.jpg",
@@ -186,15 +177,6 @@
 			"domainName": "Zoro/AniWatch",
 			"homepage": "https://aniwatch.to/home",
 			"order": 10
-		}, {
-			"title": "Bungou Stray Dogs 5th Season",
-			"description": "Action, Mystery, Supernatural",
-			"banner": "https://cdn.myanimelist.net/images/anime/1161/136691.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
-			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
-			"domainName": "Zoro/AniWatch",
-			"homepage": "https://aniwatch.to/home",
-			"order": 11
 		}, {
 			"title": "Hataraku Maou-sama!! 2nd Season",
 			"description": "Comedy, Fantasy",
