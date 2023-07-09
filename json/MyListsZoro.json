@@ -8,7 +8,7 @@
 			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Demon%20Slayer.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 1
 		}, {
@@ -26,7 +26,7 @@
 			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Jigokuraku.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 3
 		}, {
@@ -35,7 +35,7 @@
 			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Dr.Stone.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/mashle-magic-and-muscles-18339?ep=100069",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 4
 		}, {
@@ -44,7 +44,7 @@
 			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Mashle.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/mashle-magic-and-muscles-18339?ep=100069",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 5
 		}, {
@@ -89,9 +89,139 @@
 			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/I%20got%20a%20cheat.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-18343?ep=99965",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 10
+		}]
+	}, {
+		"order": 0,
+		"orientation": "Landscape",
+	    "New Summer Shows": [ {
+			"title": "Jujutsu Kaisen 2nd Season",
+			"description": "Action, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1600/134703.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 1
+		}, {
+			"title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+			"description": "Drama, Fantasy, Ecchi",
+			"banner": "https://cdn.myanimelist.net/images/anime/1674/136728.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 2
+		}, {
+			"title": "Horimiya: Piece",
+			"description": "Romance",
+			"banner": "https://cdn.myanimelist.net/images/anime/1007/136277.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 3
+		}, {
+			"title": "Masamune-kun no Revenge R",
+			"description": "Comedy, Romance",
+			"banner": "https://cdn.myanimelist.net/images/anime/1667/135587.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 4
+		}, {
+			"title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+			"description": "Action, Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1018/136667.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 5
+		}, {
+			"title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+			"description": "Action, Comedy, Horror, Supernatural",
+			"banner": "https://cdn.myanimelist.net/images/anime/1384/136408.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 6
+		}, {
+			"title": "Suki na Ko ga Megane wo Wasureta",
+			"description": "Comedy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1582/136325.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 7
+		}, {
+			"title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+			"description": " Action, Comedy, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1892/133677.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 8
+		}, {
+			"title": "Kanojo, Okarishimasu 3rd Season",
+			"description": "Comedy, Romance",
+			"banner": "https://cdn.myanimelist.net/images/anime/1696/136634.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 9
+		}, {
+			"title": "Watashi no Shiawase na Kekkon",
+			"description": "Fantasy, Romance",
+			"banner": "https://cdn.myanimelist.net/images/anime/1147/122444.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 10
+		}, {
+			"title": "Bungou Stray Dogs 5th Season",
+			"description": "Action, Mystery, Supernatural",
+			"banner": "https://cdn.myanimelist.net/images/anime/1161/136691.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 11
+		}, {
+			"title": "Hataraku Maou-sama!! 2nd Season",
+			"description": "Comedy, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1392/136670.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 12
+		}, {
+			"title": "Liar Liar",
+			"description": "Ecchi",
+			"banner": "https://cdn.myanimelist.net/images/anime/1571/134525.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 13
+		}, {
+			"title": "Nanatsu no Maken ga Shihai suru",
+			"description": "Action, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1396/136273.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 14
 		}]
 	}, {
 		"order": 2,
@@ -101,7 +231,7 @@
 			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Vinland%20Saga.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 1
 		}, {
@@ -119,7 +249,7 @@
 			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Tokyo%20revengers.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/mashle-magic-and-muscles-18339?ep=100069",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 3
 		}, {
@@ -128,7 +258,7 @@
 			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/The%20Misfit%20of%20Demon%20King%20Academy%20%E2%85%A1.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 10
 		}, {
@@ -137,7 +267,7 @@
 			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Don't%20toy%20with%20me.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-18343?ep=99965",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 9
 		}, {
@@ -326,7 +456,7 @@
 			"banner": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/attack-on-titan-112?ep=3303",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 1
 		}, {
@@ -335,7 +465,7 @@
 			"banner": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/fullmetal-alchemist-brotherhood-1?ep=1",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 2
 		}, {
@@ -344,7 +474,7 @@
 			"banner": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/one-punch-man-63?ep=1501",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 3
 		}, {
@@ -353,7 +483,7 @@
 			"banner": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/sword-art-online-2274?ep=26565",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 4
 		}, {
@@ -362,7 +492,7 @@
 			"banner": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/my-hero-academia-322?ep=6210",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 5
 		}, {
@@ -425,7 +555,7 @@
 			"banner": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/code-geass-lelouch-of-the-rebellion-41?ep=1158",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 12
 		}, {
@@ -434,7 +564,7 @@
 			"banner": "https://cdn.myanimelist.net/images/anime/1886/128266.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/noragami-491?ep=10015",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 13
 		}, {
@@ -443,7 +573,7 @@
 			"banner": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/akame-ga-kill-1329?ep=19306",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 14
 		}, {
@@ -452,7 +582,7 @@
 			"banner": "https://cdn.myanimelist.net/images/anime/8/65409.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/the-seven-deadly-sins-561?ep=10966",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 15
 		}, {
@@ -461,7 +591,7 @@
 			"banner": "https://cdn.myanimelist.net/images/anime/8/80356.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/mob-psycho-100-101?ep=3087",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 16
 		}, {
@@ -470,7 +600,7 @@
 			"banner": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/the-future-diary-1281?ep=18677",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 17
 		}, {
@@ -479,7 +609,7 @@
 			"banner": "https://cdn.myanimelist.net/images/anime/5/75639.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/assassination-classroom-372?ep=8586",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 18
 		}, {
@@ -488,7 +618,7 @@
 			"banner": "https://cdn.myanimelist.net/images/anime/3/40451.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
 			"actionUrl": "https://zoro.to/watch/bleach-806?ep=13793",
-			"domainName": "Zoro",
+			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 19
 		}]
