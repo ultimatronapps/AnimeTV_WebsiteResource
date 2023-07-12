@@ -7,7 +7,7 @@
 			"description": "Action, Fantasy",
 			"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Demon%20Slayer.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
-			"actionUrl": "https://zoro.to/watch/one-piece-100?ep=2142",
+			"actionUrl": "https://aniwatch.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090",
 			"domainName": "Zoro/AniWatch",
 			"homepage": "https://zoro.to/home",
 			"order": 1
@@ -299,16 +299,7 @@
 		}]
 	}, {
 		"order": 3,
-	    "Manga Recommendation": [ {
-			"title": "One Piece",
-			"description": "Action, Adventure, Fantasy",
-			"banner": "https://cdn.myanimelist.net/images/manga/2/253146.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
-			"actionUrl": "https://mangareader.to/one-piece-3?ref=search",
-			"domainName": "MangaReader",
-			"homepage": "https://mangareader.to/home",
-			"order": 1
-		}, {
+	    "Manga Recommendation": [{
 			"title": "Vinland Saga",
 			"description": "Action, Adventure, Drama",
 			"banner": "https://cdn.myanimelist.net/images/manga/2/188925.jpg",
