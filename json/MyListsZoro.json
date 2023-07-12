@@ -513,15 +513,6 @@
 			"homepage": "https://animesuge.to/home",
 			"order": 10
 		}, {
-			"title": "One Piece",
-			"description": "Action, Adventure, Fantasy",
-			"banner": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
-			"actionUrl": "https://animesuge.to/anime/one-piece-ov8/ep-1",
-			"domainName": "Anime Suge",
-			"homepage": "https://animesuge.to/home",
-			"order": 11
-		}, {
 			"title": "Code Geass: Hangyaku no Lelouch",
 			"description": "Action, Drama, Sci-Fi",
 			"banner": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
