@@ -7,6 +7,7 @@
 		"actionUrl": "https://mangareader.to/read/solo-leveling-21/en/chapter-0",
 		"domainName": "MangaReader",
 		"homepage": "https://mangareader.to/home",
+	        "isExternal": false,
 		"order": 2
     }, {
 		"title": "Mashle: Magic and Muscles",
@@ -16,6 +17,7 @@
 		"actionUrl": "https://zoro.to/watch/mashle-magic-and-muscles-18339?ep=100069",
 		"domainName": "Zoro",
 		"homepage": "https://zoro.to/home",
+	    	"isExternal": false,
 		"order": 3
     }, {
 		"title": "Demon Slayer: Swordsmith Village Arc",
@@ -25,6 +27,7 @@
 		"actionUrl": "https://zoro.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090",
 		"domainName": "Zoro",
 		"homepage": "https://zoro.to/home",
+	    	"isExternal": false,
 		"order": 4
     }, {
 		"title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
@@ -34,6 +37,7 @@
 		"actionUrl": "https://zoro.to/watch/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-18343?ep=99965",
 		"domainName": "Zoro",
 		"homepage": "https://zoro.to/home",
+	        "isExternal": false,
 		"order": 5
     }, {
 		"title": "Vinland Saga Season 2",
@@ -43,16 +47,8 @@
 		"actionUrl": "https://animesuge.to/anime/vinland-saga-season-2-kwo44/ep-1",
 		"domainName": "Anime Suge",
 		"homepage": "https://animesuge.to/home",
+	        "isExternal": false,
 		"order": 1
-    }, {
-		"title": "My Love Story with Yamada-kun at Lv999",
-		"description": "Romance",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/.pending-1685784514-images%20(1).jpeg",
-		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/9anime.png",
-		"actionUrl": "https://9anime.pl/watch/yamada-kun-to-lv999-no-koi-wo-suru.w15r6/ep-1",
-		"domainName": "9Anime",
-		"homepage": "https://9anime.pl/home",
-		"order": 7
     }, {
 		"title": "Bleach: Thousand-Year Blood War",
 		"description": "Action, Adventure, Fantasy",
