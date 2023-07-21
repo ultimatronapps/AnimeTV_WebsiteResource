@@ -13,6 +13,19 @@
 	"isExternal": false,
         "order": 0
     }, {
+        "title": "Our Backup App is Available!",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "Download Now",
+        "buttonTextColor": "#202125",
+        "buttonBgColor": "#cae962",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/message%20promo.jpg",
+	"actionUrl": "https://play.google.com/store/apps/details?id=com.pheenix.kissanime",
+	"domainName": "Zoro/AniWatch",
+	"homepage": "https://aniwatch.to/home",
+	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+	"isExternal": true,
+        "order": 1
+    }, {
         "title": "Jujutsu Kaisen 2nd Season",
         "titleTextColor": "#FFFFFF",
         "buttonName": "Watch Now",
@@ -24,7 +37,7 @@
 	"homepage": "https://aniwatch.to/home",
 	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
 	"isExternal": false,
-        "order": 1
+        "order": 2
     }, {
         "title": " Bleach: Thousand-Year Blood War - The Separation",
         "titleTextColor": "#FFFFFF",
@@ -37,7 +50,7 @@
 	"homepage": "https://aniwatch.to/home",
 	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
 	"isExternal": false,
-        "order": 2
+        "order": 3
     }, {
         "title": "Mushoku Tensei: Jobless Reincarnation Season 2",
         "titleTextColor": "#FFFFFF",
@@ -46,19 +59,6 @@
         "buttonBgColor": "#cae962",
         "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/b3.jpg",
 	"actionUrl": "https://aniwatch.to/watch/mushoku-tensei-jobless-reincarnation-season-2-18418?ep=103010",
-	"domainName": "Zoro/AniWatch",
-	"homepage": "https://aniwatch.to/home",
-	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
-	"isExternal": false,
-        "order": 3
-    }, {
-        "title": "My Happy Marriage",
-        "titleTextColor": "#FFFFFF",
-        "buttonName": "Watch Now",
-        "buttonTextColor": "#202125",
-        "buttonBgColor": "#cae962",
-        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/b4.jpg",
-	"actionUrl": "https://aniwatch.to/watch/my-happy-marriage-18490?ep=102665",
 	"domainName": "Zoro/AniWatch",
 	"homepage": "https://aniwatch.to/home",
 	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
