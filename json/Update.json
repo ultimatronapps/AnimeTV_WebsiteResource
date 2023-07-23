@@ -1,6 +1,6 @@
 {
     "update": [ {
-		"version_name": "1.0.6",
+		"title": "1.0.6",
 		"description": "Google taken down this app from Play store.  So, please download our backup app for any future updates",
 		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/message%20promo.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
@@ -8,6 +8,6 @@
 		"domainName": "Zoro",
 		"homepage": "https://zoro.to/home",
 		"isExternal": true,
-		"version_code": 14
+		"order": 14
     }]
 }
