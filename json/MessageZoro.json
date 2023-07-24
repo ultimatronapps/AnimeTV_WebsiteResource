@@ -1,10 +1,10 @@
 {
     "message": [ {
-		"title": "Install our backup app!",
-		"description": "Google taken down this app from Play store.  So, please download our backup app for any future updates",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/message%20promo.jpg",
+		"title": "App update available!",
+		"description": "Google taken down this app from Play store.  So, please update our app directly from any your browser",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/message%20zoro%20promo.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-		"actionUrl": "https://play.google.com/store/apps/details?id=com.pheenix.kissanime",
+		"actionUrl": "https://github.com/u23j23s/z/raw/main/app-release.apk",
 		"domainName": "Zoro",
 		"homepage": "https://zoro.to/home",
 		"isExternal": true,
