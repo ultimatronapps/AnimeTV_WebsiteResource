@@ -10,6 +10,18 @@
         "website_link": "https://animedao.to/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AnimeDao.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AnimeDao.png",
+        "order": 5
+    }, {
+        "website_name": "Anix",
+        "website_link": "https://anix.to/",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Anix.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Anix%20Cir.png",
+        "order": 3
+    }, {
+        "website_name": "KAA",
+        "website_link": "https://kickassanime.am/",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/KAA.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/KAA%20Cir.png",
         "order": 4
     }, {
         "website_name": "AllAnime",
