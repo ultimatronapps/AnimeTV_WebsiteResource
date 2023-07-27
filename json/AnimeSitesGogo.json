@@ -10,6 +10,18 @@
         "website_link": "https://animedao.to/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AnimeDao.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AnimeDao.png",
+        "order": 5
+    }, {
+        "website_name": "Anix",
+        "website_link": "https://anix.to/",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Anix.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Anix%20Cir.png",
+        "order": 3
+    }, {
+        "website_name": "KAA",
+        "website_link": "https://kickassanime.am/",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/KAA.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/KAA%20Cir.png",
         "order": 4
     }, {
         "website_name": "AllAnime",
@@ -28,7 +40,7 @@
         "website_link": "www.animepahe.ru",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/animepahe.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/animepahe.png",
-        "order": 8
+        "order": 10
     }, {
         "website_name": "AnimixPlay",
         "website_link": "https://animixplay.sc/homepage/",
@@ -70,12 +82,12 @@
         "website_link": "https://www3.animeflv.net/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AnimeFly.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/animefly.png",
-        "order": 5
+        "order": 6
     }, {
         "website_name": "AnimeIndo",
         "website_link": "https://animeindo.cfd/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AnimeIndo.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AnimeIndo.png",
-        "order": 6
+        "order": 8
     }]
 }
