@@ -1,0 +1,68 @@
+{
+    "home_banner": [ {
+        "title": "Welcome back!",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "",
+        "buttonTextColor": "#FFFFFF",
+        "buttonBgColor": "#000000",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/SS.png",
+	"actionUrl": "",
+	"domainName": "",
+	"homepage": "",
+	"thumbnail": "",
+	"isExternal": false,
+        "order": 0
+    }, {
+        "title": "Jujutsu Kaisen 2nd Season",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "Watch Now",
+        "buttonTextColor": "#191919",
+        "buttonBgColor": "#4daefe",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/b1.jpg",
+	"actionUrl": "https://aniwatch.to/watch/jujutsu-kaisen-2nd-season-18413?ep=102662",
+	"domainName": "Zoro/AniWatch",
+	"homepage": "https://aniwatch.to/home",
+	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+	"isExternal": false,
+        "order": 1
+    }, {
+        "title": " Bleach: Thousand-Year Blood War - The Separation",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "Watch Now",
+        "buttonTextColor": "#191919",
+        "buttonBgColor": "#4daefe",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/b2.jpg",
+	"actionUrl": "https://aniwatch.to/watch/bleach-thousandyear-blood-war-the-separation-18420?ep=102994https://aniwatch.to/watch/bleach-thousandyear-blood-war-the-separation-18420?ep=102994",
+	"domainName": "Zoro/AniWatch",
+	"homepage": "https://aniwatch.to/home",
+	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+	"isExternal": false,
+        "order": 2
+    }, {
+        "title": "Mushoku Tensei: Jobless Reincarnation Season 2",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "Watch Now",
+        "buttonTextColor": "#191919",
+        "buttonBgColor": "#4daefe",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/b3.jpg",
+	"actionUrl": "https://aniwatch.to/watch/mushoku-tensei-jobless-reincarnation-season-2-18418?ep=103010",
+	"domainName": "Zoro/AniWatch",
+	"homepage": "https://aniwatch.to/home",
+	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+	"isExternal": false,
+        "order": 3
+    }, {
+        "title": "My Happy Marriage",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "Watch Now",
+        "buttonTextColor": "#191919",
+        "buttonBgColor": "#4daefe",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/b4.jpg",
+	"actionUrl": "https://aniwatch.to/watch/my-happy-marriage-18490?ep=102665",
+	"domainName": "Zoro/AniWatch",
+	"homepage": "https://aniwatch.to/home",
+	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+	"isExternal": false,
+        "order": 4
+    }]
+}
