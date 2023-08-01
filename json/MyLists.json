@@ -225,15 +225,6 @@
 			"homepage": "https://aniwatch.to/home",
 			"order": 3
 		}, {
-			"title": "Jujutsu Kaisen",
-			"description": "Action, Fantasy",
-			"banner": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
-			"actionUrl": "https://aniwatch.to/watch/jujutsu-kaisen-tv-534",
-			"domainName": "Zoro/AniWatch",
-			"homepage": "https://aniwatch.to/home",
-			"order": 4
-		}, {
 			"title": "Koe no Katachi",
 			"description": "Drama",
 			"banner": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
@@ -659,15 +650,6 @@
 			"domainName": "Anime Suge",
 			"homepage": "https://animesuge.to/home",
 			"order": 9
-		}, {
-			"title": "Jujutsu Kaisen",
-			"description": "Action, Fantasy",
-			"banner": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
-			"actionUrl": "https://animesuge.to/anime/jujutsu-kaisen-32n8/ep-1",
-			"domainName": "Anime Suge",
-			"homepage": "https://animesuge.to/home",
-			"order": 10
 		}, {
 			"title": "Code Geass: Hangyaku no Lelouch",
 			"description": "Action, Drama, Sci-Fi",
