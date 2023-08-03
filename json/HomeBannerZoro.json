@@ -13,13 +13,13 @@
 	"isExternal": false,
         "order": 0
     }, {
-        "title": "Install our backup app!",
+        "title": "New App is Available!",
         "titleTextColor": "#FFFFFF",
         "buttonName": "Download Now",
         "buttonTextColor": "#202125",
         "buttonBgColor": "#cae962",
-        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/message%20promo.jpg",
-	"actionUrl": "https://play.google.com/store/apps/details?id=com.pheenix.kissanime",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/banner_ad.jpg",
+	"actionUrl": "https://play.google.com/store/apps/details?id=com.pheenix.zoronew",
 	"domainName": "Zoro/AniWatch",
 	"homepage": "https://aniwatch.to/home",
 	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
