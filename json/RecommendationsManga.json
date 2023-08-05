@@ -8,7 +8,7 @@
 		"domainName": "MangaReader",
 		"homepage": "https://mangareader.to/home",
 	        "isExternal": false,
-		"order": 2
+		"order": 1
     }, {
 		"title": "Vagabond",
 		"description": "Action, Adventure",
@@ -18,7 +18,7 @@
 		"domainName": "MangaReader",
 		"homepage": "https://mangareader.to/home",
 	    	"isExternal": false,
-		"order": 3
+		"order": 2
     }, {
 		"title": "Tokyo Ghoul",
 		"description": "Action, Fantasy, Horror",
@@ -28,7 +28,7 @@
 		"domainName": "MangaReader",
 		"homepage": "https://mangareader.to/home",
 	    	"isExternal": false,
-		"order": 4
+		"order": 3
     }, {
 		"title": "Black Clover",
 		"description": "Action, Comedy, Fantasy",
@@ -38,17 +38,17 @@
 		"domainName": "MangaReader",
 		"homepage": "https://mangareader.to/home",
 	        "isExternal": false,
-		"order": 5
+		"order": 4
     }, {
 		"title": "Golden Kamuy",
 		"description": "Action, Adventure",
 		"banner": "https://e1.pxfuel.com/desktop-wallpaper/269/420/desktop-wallpaper-golden-kamuy-golden-anime.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
 		"actionUrl": "https://animesuge.to/anime/vinland-saga-season-2-kwo44/ep-1",
-		"domainName": "Anime Suge",
-		"homepage": "https://animesuge.to/home",
+		"domainName": "MangaReader",
+		"homepage": "https://mangareader.to/home",,
 	        "isExternal": false,
-		"order": 1
+		"order": 5
     }, {
 		"title": "Bleach: Thousand-Year Blood War",
 		"description": "Action, Adventure, Fantasy",
