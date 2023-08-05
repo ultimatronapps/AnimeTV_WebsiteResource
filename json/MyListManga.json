@@ -1,0 +1,130 @@
+{
+    "my_lists": [ 
+	{
+		"order": 1,
+	    "Manga Recommendation": [{
+			"title": "Vinland Saga",
+			"description": "Action, Adventure, Drama",
+			"banner": "https://cdn.myanimelist.net/images/manga/2/188925.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/vinland-saga-14?ref=search",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 2
+		}, {
+			"title": "Kingdom",
+			"description": "Action",
+			"banner": "https://cdn.myanimelist.net/images/manga/2/171872.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/kingdom-10",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 3
+		}, {
+			"title": "Chainsaw Man",
+			"description": "Action, Supernatural",
+			"banner": "https://cdn.myanimelist.net/images/manga/3/216464.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/chainsaw-man-96",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 4
+		}, {
+			"title": "Boku no Hero Academia",
+			"description": "Action",
+			"banner": "https://cdn.myanimelist.net/images/manga/1/209370.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/my-hero-academia-272?ref=search",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 5
+		}, {
+			"title": "Jujutsu Kaisen",
+			"description": "Action, Supernatural",
+			"banner": "https://cdn.myanimelist.net/images/manga/3/210341.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/jujutsu-kaisen-168?ref=search",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 6
+		}, {
+			"title": "Blue Lock",
+			"description": "Sports",
+			"banner": "https://cdn.myanimelist.net/images/manga/5/213340.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/blue-lock-225",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 7
+		}]
+	}, {
+		"order": 2,
+	    "Manhwa/Webtoon Recommendation": [ {
+			"title": "Solo Leveling",
+			"description": "Action, Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/manga/3/222295.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/read/solo-leveling-21/en/chapter-0",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 1
+		}, {
+			"title": "The Legend of the Northern Blade",
+			"description": "Action, Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/manga/3/243483.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/read/the-legend-of-the-northern-blade-44695/en/chapter-1",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 2
+		}, {
+			"title": "Eleceed",
+			"description": "Action",
+			"banner": "https://cdn.myanimelist.net/images/manga/1/260660.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/read/eleceed-56270/en/chapter-1",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 3
+		}, {
+			"title": "Omniscient Reader",
+			"description": "Action, Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/manga/2/238873.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/read/omniscient-readers-viewpoint-56178/en/chapter-0",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 4
+		}, {
+			"title": "The Greatest Estate Developer",
+			"description": "Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/manga/1/263543.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/read/the-greatest-estate-developer-60044/en/chapter-1",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 5
+		}, {
+			"title": "Noblesse",
+			"description": "Action, Adventure, Comedy, Supernatural",
+			"banner": "https://cdn.myanimelist.net/images/manga/2/266261.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaFire.png",
+			"actionUrl": "https://mangafire.to/read/noblesse.2p5/en/chapter-1",
+			"domainName": "Manga Fire",
+			"homepage": "https://mangafire.to/home",
+			"order": 6
+		}, {
+			"title": "The Remarried Empress",
+			"description": "Drama, Fantasy, Romance",
+			"banner": "https://cdn.myanimelist.net/images/manga/1/235295.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to/read/the-remarried-empress-587/en/chapter-1",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 7
+		}]
+	}
+
+
+	]
+}
