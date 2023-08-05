@@ -1,0 +1,62 @@
+{
+    "recommendation": [ {
+		"title": "Berserk",
+		"description": "Action, Adventure, Drama, Fantasy, Horror, Supernatural",
+		"banner": "https://a-static.besthdwallpaper.com/guts-berserk-wallpaper-1440x960-31911_37.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+		"actionUrl": "https://mangareader.to/read/berserk-1/en/chapter-0.01",
+		"domainName": "MangaReader",
+		"homepage": "https://mangareader.to/home",
+	        "isExternal": false,
+		"order": 2
+    }, {
+		"title": "Vagabond",
+		"description": "Action, Adventure",
+		"banner": "https://wallpaperaccess.com/full/964767.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+		"actionUrl": "https://mangareader.to/read/vagabond-4/en/chapter-1",
+		"domainName": "MangaReader",
+		"homepage": "https://mangareader.to/home",
+	    	"isExternal": false,
+		"order": 3
+    }, {
+		"title": "Tokyo Ghoul",
+		"description": "Action, Fantasy, Horror",
+		"banner": "https://e1.pxfuel.com/desktop-wallpaper/528/663/desktop-wallpaper-tokyo-ghoul-manga-cover-art-tokyo-ghoul-manga.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+		"actionUrl": "https://mangareader.to/read/tokyo-ghoul-108/en/chapter-1",
+		"domainName": "MangaReader",
+		"homepage": "https://mangareader.to/home",
+	    	"isExternal": false,
+		"order": 4
+    }, {
+		"title": "Black Clover",
+		"description": "Action, Comedy, Fantasy",
+		"banner": "https://wallpapers.com/images/hd/black-clover-hd-cama467icdbavbjv.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+		"actionUrl": "https://mangareader.to/read/black-clover-1469/en/chapter-1",
+		"domainName": "MangaReader",
+		"homepage": "https://mangareader.to/home",
+	        "isExternal": false,
+		"order": 5
+    }, {
+		"title": "Golden Kamuy",
+		"description": "Action, Adventure",
+		"banner": "https://e1.pxfuel.com/desktop-wallpaper/269/420/desktop-wallpaper-golden-kamuy-golden-anime.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
+		"actionUrl": "https://animesuge.to/anime/vinland-saga-season-2-kwo44/ep-1",
+		"domainName": "Anime Suge",
+		"homepage": "https://animesuge.to/home",
+	        "isExternal": false,
+		"order": 1
+    }, {
+		"title": "Bleach: Thousand-Year Blood War",
+		"description": "Action, Adventure, Fantasy",
+		"banner": "https://e1.pxfuel.com/desktop-wallpaper/269/420/desktop-wallpaper-golden-kamuy-golden-anime.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Yugen.png",
+		"actionUrl": "https://yugenanime.tv/watch/15983/bleach-sennen-kessen-hen/1/",
+		"domainName": "FOR AD",
+		"homepage": "https://yugenanime.tv/",
+		"order": -1
+    }]
+}
