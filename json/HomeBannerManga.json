@@ -1,0 +1,68 @@
+{
+    "home_banner": [ {
+        "title": "Welcome back!",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "",
+        "buttonTextColor": "#FFFFFF",
+        "buttonBgColor": "#000000",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/SS.png",
+	"actionUrl": "",
+	"domainName": "",
+	"homepage": "",
+	"thumbnail": "",
+	"isExternal": false,
+        "order": 0
+    }, {
+        "title": "One Piece",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "Read Now",
+        "buttonTextColor": "#202125",
+        "buttonBgColor": "#D05DFF",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/lists/manga%20op.jpg",
+	"actionUrl": "https://mangareader.to/read/one-piece-3/en/chapter-1",
+	"domainName": "MangaReader",
+	"homepage": "https://mangareader.to/home",
+	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+	"isExternal": false,
+        "order": 1
+    }, {
+        "title": "Jujutsu Kaisen",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "Read Now",
+        "buttonTextColor": "#202125",
+        "buttonBgColor": "#D05DFF",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/lists/manga%20jjk.jpg",
+	"actionUrl": "https://mangareader.to/read/jujutsu-kaisen-168/en/chapter-1",
+	"domainName": "MangaReader",
+	"homepage": "https://mangareader.to/home",
+	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+	"isExternal": false,
+        "order": 2
+    }, {
+        "title": "Blue Lock",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "Read Now",
+        "buttonTextColor": "#202125",
+        "buttonBgColor": "#D05DFF",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/lists/manga%20bluelock.jpg",
+	"actionUrl": "https://mangareader.to/read/blue-lock-225/en/chapter-1",
+	"domainName": "MangaReader",
+	"homepage": "https://mangareader.to/home",
+	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+	"isExternal": false,
+        "order": 3
+    }, {
+        "title": "One Punch Man",
+        "titleTextColor": "#FFFFFF",
+        "buttonName": "Read Now",
+        "buttonTextColor": "#202125",
+        "buttonBgColor": "#D05DFF",
+        "imageUrl": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/lists/manga%20opm.jpg",
+	"actionUrl": "https://mangareader.to/read/onepunch-man-40/en/chapter-1",
+	"domainName": "MangaReader",
+	"homepage": "https://mangareader.to/home",
+	"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+	"isExternal": false,
+        "order": 4
+    }]
+}
