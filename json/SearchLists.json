@@ -1,0 +1,47 @@
+{
+    "search": [ 
+	{
+		"anime": [ {
+			"title": "/search?keyword=",
+			"description": "",
+			"banner": "",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://aniwatch.to",
+			"domainName": "AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 1
+		}, {
+			"title": "/discover/?q=",
+			"description": "",
+			"banner": "",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Yugen.png",
+			"actionUrl": "https://yugenanime.tv/",
+			"domainName": "Yugen",
+			"homepage": "https://yugenanime.tv/",
+			"order": 2
+		}]
+	}, {
+	    "manga": [ {
+			"title": "/search?keyword=",
+			"description": "",
+			"banner": "",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+			"actionUrl": "https://mangareader.to",
+			"domainName": "MangaReader",
+			"homepage": "https://mangareader.to/home",
+			"order": 1
+		}, {
+			"title": "/search?keyword=",
+			"description": "",
+			"banner": "",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaFire.png",
+			"actionUrl": "https://mangafire.to",
+			"domainName": "Manga Fire",
+			"homepage": "https://mangafire.to/home",
+			"order": 2
+		}]
+	}
+
+
+	]
+}
