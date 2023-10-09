@@ -11,6 +11,15 @@
 			"homepage": "https://aniwatch.to/home",
 			"order": 1
 		}, {
+			"title": "/filter?keyword=",
+			"description": "",
+			"banner": "",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
+			"actionUrl": "https://animesuge.to",
+			"domainName": "Anime Suge",
+			"homepage": "https://animesuge.to/home",
+			"order": 2
+		}, {
 			"title": "/discover/?q=",
 			"description": "",
 			"banner": "",
@@ -18,7 +27,7 @@
 			"actionUrl": "https://yugenanime.tv/",
 			"domainName": "Yugen",
 			"homepage": "https://yugenanime.tv/",
-			"order": 2
+			"order": 3
 		}]
 	}, {
 	    "manga": [ {
