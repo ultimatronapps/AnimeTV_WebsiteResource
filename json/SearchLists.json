@@ -28,6 +28,24 @@
 			"domainName": "Yugen",
 			"homepage": "https://yugenanime.tv/",
 			"order": 3
+		}, {
+			"title": "/search?q=",
+			"description": "",
+			"banner": "",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/KAA%20Cir.png",
+			"actionUrl": "https://kickassanime.am",
+			"domainName": "KAA",
+			"homepage": "https://kickassanime.am/",
+			"order": 4
+		}, {
+			"title": "/search.html?keyword=",
+			"description": "",
+			"banner": "",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/GogoAnime.png",
+			"actionUrl": "https://gogoanimehd.io",
+			"domainName": "Gogo Anime",
+			"homepage": "https://gogoanimehd.io/",
+			"order": 5
 		}]
 	}, {
 	    "manga": [ {
@@ -48,6 +66,24 @@
 			"domainName": "Manga Fire",
 			"homepage": "https://mangafire.to/home",
 			"order": 2
+		}, {
+			"title": "/search?q=",
+			"description": "",
+			"banner": "",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MB%20favicon.png",
+			"actionUrl": "https://mangabuddy.com",
+			"domainName": "MangaBuddy",
+			"homepage": "https://mangabuddy.com/home",
+			"order": 3
+		}, {
+			"title": "/search?q=",
+			"description": "",
+			"banner": "",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/ComickApp.png",
+			"actionUrl": "https://comick.app",
+			"domainName": "ComicK",
+			"homepage": "https://comick.app/home",
+			"order": 4
 		}]
 	}
 
