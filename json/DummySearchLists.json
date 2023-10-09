@@ -1,0 +1,29 @@
+{
+    "search": [ 
+	{
+		"anime": [ {
+			"title": "/search?q=",
+			"description": "",
+			"banner": "",
+			"thumbnail": "https://theplace2b.com.au/wp-content/uploads/2020/09/178-1783296_g-transparent-circle-google-logo.png",
+			"actionUrl": "https://www.google.com",
+			"domainName": "Google",
+			"homepage": "https://www.google.com/",
+			"order": 1
+		}]
+	}, {
+	    "manga": [ {
+			"title": "/search?q=",
+			"description": "",
+			"banner": "",
+			"thumbnail": "https://theplace2b.com.au/wp-content/uploads/2020/09/178-1783296_g-transparent-circle-google-logo.png",
+			"actionUrl": "https://images.google.com",
+			"domainName": "Google Image",
+			"homepage": "https://images.google.com/",
+			"order": 1
+		}]
+	}
+
+
+	]
+}
