@@ -1,81 +1,52 @@
 {
     "paid": [ {
-        "website_name": "AuraScans",
-        "website_link": "https://www.asurascans.com/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/asurascans.jpg",
+        "website_name": "Crunchyroll",
+        "website_link": "https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid&hl=en&gl=US",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/crunchyroll.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/asurascans.png",
-        "order": 4
-    }, {
-        "website_name": "FlameScans",
-        "website_link": "https://flamescans.org/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/FlameScan.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/FlameScan.png",
-        "order": 8
-    }, {
-        "website_name": "MangaReader",
-        "website_link": "https://mangareader.to/home",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/MangaReader_tag.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+        "description":"",
         "order": 1
     }, {
-        "website_name": "Manga Fire",
-        "website_link": "https://mangafire.to/home",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/MangaFire_tag.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaFire.png",
+        "website_name": "Netflix",
+        "website_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en&gl=US",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Netflix.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/FlameScan.png",
+        "description":"",
         "order": 2
     }, {
-        "website_name": "readm",
-        "website_link": "https://readm.org/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/readm.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/readm.png",
-        "order": 7
+        "website_name": "Funimation",
+        "website_link": "https://play.google.com/store/apps/details?id=com.Funimation.FunimationNow&hl=en&gl=US",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Funi.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/FlameScan.png",
+        "description":"",
+        "order": 4
     }, {
-        "website_name": "Reaper Scans",
-        "website_link": "https://reaperscans.com/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/RS.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/RS.png",
-        "order": 10
+        "website_name": "Prime Video",
+        "website_link": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient&hl=en&gl=US",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/PrimeVideo.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/FlameScan.png",
+        "description":"",
+        "order": 3
     }, {
-        "website_name": "Void Scans",
-        "website_link": "https://void-scans.com/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/VoidScan.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/VoidScan.png",
-        "order": 9
-    }, {
-        "website_name": "nineAnime",
-        "website_link": "https://www.nineanime.com/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/nineAnime.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/nineAnime.png",
-        "order": 11
-    }, {
-        "website_name": "Manga Komi",
-        "website_link": "https://mangakomi.io/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/MangaKomi.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaKomi.png",
-        "order": 12
-    }, {
-        "website_name": "Manhwaz",
-        "website_link": "https://manhwaz.com/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Manhwaz.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Manhwaz.png",
-        "order": 13
-    }, {
-        "website_name": "NDRO MZ",
-        "website_link": "https://ndrozone.com/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/ndrozone.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/ndrozone.png",
-        "order": 6
-    }, {
-        "website_name": "MangaBuddy",
-        "website_link": "https://mangabuddy.com/home",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/MangaBuddy.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MB%20favicon.png",
+        "website_name": "Hulu",
+        "website_link": "https://play.google.com/store/apps/details?id=com.hulu.plus&hl=en&gl=US",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Hulu.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/FlameScan.png",
+        "description":"",
         "order": 5
     }, {
-        "website_name": "ComicK",
-        "website_link": "https://comick.app/home",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/ComickApp.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/ComickApp.png",
-        "order": 3
+        "website_name": "HIDIVE",
+        "website_link": "https://play.google.com/store/apps/details?id=com.hidive.android&hl=en&gl=US",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/HIDive.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/FlameScan.png",
+        "description":"",
+        "order": 6
+    }, {
+        "website_name": "Animlab",
+        "website_link": "https://play.google.com/store/apps/details?id=com.animelab.android.handset&hl=en&gl=US",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Animelab.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/FlameScan.png",
+        "description":"",
+        "order": 7
     }]
 }
