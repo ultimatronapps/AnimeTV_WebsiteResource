@@ -3,7 +3,7 @@
         "website_name": "9Anime",
         "website_link": "https://9anime.to/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/9anime.jpeg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/9anime.png",
+        "website_thumbnail": "Button",
         "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
         "order": 7
     }, {
@@ -66,7 +66,7 @@
         "website_name": "Zoro/AniWatch",
         "website_link": "https://aniwatch.to/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/logo.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+        "website_thumbnail": "Download",
         "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
         "order": 0
     }, {
