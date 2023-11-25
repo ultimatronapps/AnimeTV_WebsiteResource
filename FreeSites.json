@@ -1,5 +1,12 @@
 {
     "free": [ {
+        "website_name": "FOR AD",
+        "website_link": "https://9anime.to/home",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/9anime.jpeg",
+        "website_thumbnail": "Button",
+        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
+        "order": -1
+    }, {
         "website_name": "9Anime",
         "website_link": "https://9anime.to/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/9anime.jpeg",
