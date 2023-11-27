@@ -3,56 +3,56 @@
         "website_name": "Crunchyroll",
         "website_link": "https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid&hl=en&gl=US",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/crunchyroll.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/asurascans.png",
+        "website_thumbnail": "Visit Site",
         "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
         "order": 1
     }, {
         "website_name": "Netflix",
         "website_link": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en&gl=US",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Netflix.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/FlameScan.png",
+        "website_thumbnail": "Visit Site",
         "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/nf.html",
         "order": 2
     }, {
         "website_name": "Funimation",
         "website_link": "https://play.google.com/store/apps/details?id=com.Funimation.FunimationNow&hl=en&gl=US",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Funi.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/FlameScan.png",
+        "website_thumbnail": "Visit Site",
         "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/fu.html",
         "order": 4
     }, {
         "website_name": "Prime Video",
         "website_link": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient&hl=en&gl=US",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/PrimeVideo.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/FlameScan.png",
+        "website_thumbnail": "Visit Site",
         "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/pv.html",
         "order": 3
     }, {
         "website_name": "Hulu",
         "website_link": "https://play.google.com/store/apps/details?id=com.hulu.plus&hl=en&gl=US",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Hulu.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/FlameScan.png",
+        "website_thumbnail": "Visit Site",
         "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/hl.html",
         "order": 5
     }, {
         "website_name": "HIDIVE",
         "website_link": "https://play.google.com/store/apps/details?id=com.hidive.android&hl=en&gl=US",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/HIDive.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/FlameScan.png",
+        "website_thumbnail": "Visit Site",
         "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/hd.html",
         "order": 6
     }, {
         "website_name": "Animlab",
         "website_link": "https://play.google.com/store/apps/details?id=com.animelab.android.handset&hl=en&gl=US",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Animelab.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/FlameScan.png",
+        "website_thumbnail": "Visit Site",
         "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/al.html",
         "order": 7
     }, {
         "website_name": "FOR AD",
         "website_link": "https://play.google.com/store/apps/details?id=com.animelab.android.handset&hl=en&gl=US",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Animelab.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/FlameScan.png",
+        "website_thumbnail": "Visit Site",
         "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/al.html",
         "order": 8
     }]
