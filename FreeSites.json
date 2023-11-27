@@ -73,8 +73,8 @@
         "website_name": "Zoro/AniWatch",
         "website_link": "https://aniwatch.to/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/logo.jpg",
-        "website_thumbnail": "Download",
-        "description":"Visit Site",
+        "website_thumbnail": "Visit Site",
+        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
         "order": 0
     }]
 }
