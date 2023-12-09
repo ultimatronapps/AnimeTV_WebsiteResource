@@ -32,21 +32,14 @@
         "website_link": "https://kickassanime.am/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/KAA.jpg",
         "website_thumbnail": "Visit Site",
-        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
+        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/kickassanime.html",
         "order": 4
-    }, {
-        "website_name": "AllAnime",
-        "website_link": "https://allanime.to/anime",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AllAnime.jpg",
-        "website_thumbnail": "Visit Site",
-        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
-        "order": 11
     }, {
         "website_name": "Anime Suge",
         "website_link": "https://animesuge.to/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Suge.jpg",
         "website_thumbnail": "Visit Site",
-        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
+        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/animesuge.html",
         "order": 1
     }, {
         "website_name": "AnimePahe",
@@ -56,25 +49,18 @@
         "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
         "order": 10
     }, {
-        "website_name": "AnimixPlay",
-        "website_link": "https://animixplay.sc/homepage/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Animix.jpg",
-        "website_thumbnail": "Visit Site",
-        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
-        "order": 9
-    }, {
         "website_name": "Yugen",
         "website_link": "https://yugenanime.tv/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Yugen_BetterUI.jpg",
         "website_thumbnail": "Visit Site",
-        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
+        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/yugen.html",
         "order": 2
     }, {
         "website_name": "Zoro/AniWatch",
         "website_link": "https://aniwatch.to/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/logo.jpg",
         "website_thumbnail": "Visit Site",
-        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
+        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/aniwatch.html",
         "order": 0
     }]
 }
