@@ -14,18 +14,11 @@
         "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/gogo.html",
         "order": 7
     }, {
-        "website_name": "AnimeDao",
-        "website_link": "https://animedao.to/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AnimeDao.jpg",
-        "website_thumbnail": "Visit Site",
-        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
-        "order": 5
-    }, {
         "website_name": "Anix",
         "website_link": "https://anix.to/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Anix.jpg",
         "website_thumbnail": "Visit Site",
-        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
+        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/anix.html",
         "order": 3
     }, {
         "website_name": "KAA",
@@ -46,7 +39,7 @@
         "website_link": "www.animepahe.ru",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/animepahe.jpg",
         "website_thumbnail": "Visit Site",
-        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/cr.html",
+        "description":"https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/animepahe.html",
         "order": 10
     }, {
         "website_name": "Yugen",
