@@ -316,6 +316,90 @@
 			"order": 15
 		}]
 	}, {
+		"order": -4,
+	    "New Releases": [ {
+			"title": "Solo Leveling",
+			"description": "Action, Adventure, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1170/138393.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://aniwatch.to/solo-leveling-18718?ref=search",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 1
+		}, {
+			"title": "Classroom of the Elite III",
+			"description": "Drama, Suspense",
+			"banner": "https://cdn.myanimelist.net/images/anime/1332/139318.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://aniwatch.to/classroom-of-the-elite-iii-18880?ref=search",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 2
+		}, {
+			"title": "Mashle: Magic and Muscles - The Divine Visionary Candidate Exam Arc",
+			"description": "Action, Comedy, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1519/138908.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://aniwatch.to/mashle-magic-and-muscles-season-2-18874?ref=search",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 3
+		}, {
+			"title": "Chained Soldier",
+			"description": "Action, Fantasy, Ecchi",
+			"banner": "https://cdn.myanimelist.net/images/anime/1519/138908.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://aniwatch.to/chained-soldier-18871?ref=search",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 4
+		}, {
+			"title": "Dungeon Meshi",
+			"description": "Comedy, Fantasy, Gourmet",
+			"banner": "https://cdn.myanimelist.net/images/anime/1938/140374.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://aniwatch.to/delicious-in-dungeon-18506?ref=search",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 5
+		}, {
+			"title": "The Dangers in My Heart Season 2",
+			"description": "Comedy, Romance",
+			"banner": "https://cdn.myanimelist.net/images/anime/1643/138581.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://aniwatch.to/the-dangers-in-my-heart-season-2-18868?ref=search",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 6
+		}, {
+			"title": "Blue Exorcist: Shimane Illuminati Saga",
+			"description": "Action, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1521/138381.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://aniwatch.to/blue-exorcist-shimane-illuminati-saga-18862?ref=search",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 7
+		}, {
+			"title": "Bottom-Tier Character Tomozaki 2nd Stage",
+			"description": "Drama, Romance",
+			"banner": "https://cdn.myanimelist.net/images/anime/1198/139378.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://aniwatch.to/bottom-tier-character-tomozaki-2nd-stage-18865?ref=search",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 8
+		}, {
+			"title": "A Sign of Affection",
+			"description": "Romance",
+			"banner": "https://cdn.myanimelist.net/images/anime/1188/139825.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+			"actionUrl": "https://aniwatch.to/a-sign-of-affection-18859?ref=search",
+			"domainName": "Zoro/AniWatch",
+			"homepage": "https://aniwatch.to/home",
+			"order": 9
+		}]
+	}, {
 		"order": 3,
 	    "Award Winning Shows": [ {
 			"title": "Shingeki no Kyojin",
