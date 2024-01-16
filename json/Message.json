@@ -7,7 +7,7 @@
 		"actionUrl": "https://aniwatch.watch/exciting-chatroom-in-next-app-update/",
 		"domainName": "Aniwatch",
 		"homepage": "https://aniwatch.watch",
-		"isExternal": true,
+		"isExternal": false,
 		"order": 1
     }]
 }
