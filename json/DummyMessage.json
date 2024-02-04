@@ -29,7 +29,7 @@
 		"actionUrl": "https://go.aniwatch.watch/update",
 		"domainName": "Aniwatch",
 		"homepage": "https://aniwatch.watch",
-        "actionButton": "Install",
+        "actionButton": "Download",
         "cancelButton": "Not now",
         "messageType": 2,
 		"isExternal": true,
