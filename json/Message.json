@@ -7,7 +7,32 @@
 		"actionUrl": "https://go.aniwatch.watch/update",
 		"domainName": "Aniwatch",
 		"homepage": "https://aniwatch.watch",
+        	"messageType": 0,
 		"isExternal": false,
+		"order": 1
+    },  {
+		"title": "Extended exciting Chatroom! in Next Update",
+		"description": "Share anime recommendation, start anime/manga discussion, polls, and more.",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch%20Logo%20Main.png",
+		"actionUrl": "https://go.aniwatch.watch/update",
+		"domainName": "Aniwatch",
+		"homepage": "https://aniwatch.watch",
+        	"messageType": 1,
+		"isExternal": true,
+		"order": 1
+    },  {
+		"title": "Button Exciting Chatroom! in Next Update",
+		"description": "Share anime recommendation, start anime/manga discussion, polls, and more.",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch%20Logo%20Main.png",
+		"actionUrl": "https://go.aniwatch.watch/update",
+		"domainName": "Aniwatch",
+		"homepage": "https://aniwatch.watch",
+        	"actionButton": "Download",
+        	"cancelButton": "Not now",
+        	"messageType": 2,
+		"isExternal": true,
 		"order": 1
     }]
 }
