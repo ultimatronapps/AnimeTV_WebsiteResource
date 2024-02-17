@@ -1,5 +1,15 @@
 {
-    "message": [ {
-		
+    "message": [
+{
+		"title": "Use other domains",
+		"description": "Use other domains if Aniwatch doesn't work properly.",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch%20Logo%20Main.png",
+		"actionUrl": "",
+		"domainName": "Aniwatch",
+		"homepage": "https://aniwatch.watch",
+        	"messageType": 0,
+		"isExternal": false,
+		"order": 1
     }]
 }
