@@ -1,62 +1,69 @@
 {
-    "recommendation": [ {
-		"title": "Solo Leveling",
-		"description": "Action, Adventure, Fantasy",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/1061827.png",
-		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
-		"actionUrl": "https://mangareader.to/read/solo-leveling-21/en/chapter-0",
-		"domainName": "MangaReader",
-		"homepage": "https://mangareader.to/home",
-	        "isExternal": false,
-		"order": 2
-    }, {
-		"title": "Mashle: Magic and Muscles",
-		"description": "Action, Comedy, Fantasy",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/1305364.jpeg",
-		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
-		"actionUrl": "https://aniwatch.to/watch/mashle-magic-and-muscles-18339?ep=100069",
-		"domainName": "Zoro/AniWatch",
-		"homepage": "https://aniwatch.to/home",
-	    	"isExternal": false,
-		"order": 3
-    }, {
-		"title": "Demon Slayer: Swordsmith Village Arc",
-		"description": "Action, Fantasy",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/maxresdefault.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
-		"actionUrl": "https://aniwatch.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090",
-		"domainName": "Zoro/AniWatch",
-		"homepage": "https://aniwatch.to/home",
-	    	"isExternal": false,
-		"order": 4
-    }, {
-		"title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
-		"description": "Action, Adventure, Fantasy",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/vGcu194Jk4I06u69iNf2rhU3d62.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
-		"actionUrl": "https://aniwatch.to/watch/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-18343?ep=99965",
-		"domainName": "Zoro/AniWatch",
-		"homepage": "https://aniwatch.to/home",
-	        "isExternal": false,
-		"order": 5
-    }, {
-		"title": "Vinland Saga Season 2",
-		"description": "Action, Adventure, Drama",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Screenshot%202023-05-18%20193315.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
-		"actionUrl": "https://animesuge.to/anime/vinland-saga-season-2-kwo44/ep-1",
-		"domainName": "Anime Suge",
-		"homepage": "https://animesuge.to/home",
-	        "isExternal": false,
-		"order": 1
-    }, {
-		"title": "Bleach: Thousand-Year Blood War",
-		"description": "Action, Adventure, Fantasy",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/pending-1686410901-images.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Yugen.png",
-		"actionUrl": "https://yugenanime.tv/watch/15983/bleach-sennen-kessen-hen/1/",
-		"domainName": "FOR AD",
-		"homepage": "https://yugenanime.tv/",
-		"order": -1
-    }]
+  "recommendation": [
+    {
+      "title": "Solo Leveling",
+      "description": "Action, Adventure, Fantasy",
+      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/1061827.png",
+      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
+      "actionUrl": "https://mangareader.to/read/solo-leveling-21/en/chapter-0",
+      "domainName": "MangaReader",
+      "homepage": "https://mangareader.to/home",
+      "isExternal": false,
+      "order": 2
+    },
+    {
+      "title": "Mashle: Magic and Muscles",
+      "description": "Action, Comedy, Fantasy",
+      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/1305364.jpeg",
+      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+      "actionUrl": "https://aniwatchtv.to/watch/mashle-magic-and-muscles-18339?ep=100069",
+      "domainName": "Zoro/AniWatch",
+      "homepage": "https://aniwatchtv.to/home",
+      "isExternal": false,
+      "order": 3
+    },
+    {
+      "title": "Demon Slayer: Swordsmith Village Arc",
+      "description": "Action, Fantasy",
+      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/maxresdefault.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+      "actionUrl": "https://aniwatchtv.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090",
+      "domainName": "Zoro/AniWatch",
+      "homepage": "https://aniwatchtv.to/home",
+      "isExternal": false,
+      "order": 4
+    },
+    {
+      "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
+      "description": "Action, Adventure, Fantasy",
+      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/vGcu194Jk4I06u69iNf2rhU3d62.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
+      "actionUrl": "https://aniwatchtv.to/watch/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-18343?ep=99965",
+      "domainName": "Zoro/AniWatch",
+      "homepage": "https://aniwatchtv.to/home",
+      "isExternal": false,
+      "order": 5
+    },
+    {
+      "title": "Vinland Saga Season 2",
+      "description": "Action, Adventure, Drama",
+      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Screenshot%202023-05-18%20193315.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
+      "actionUrl": "https://animesuge.to/anime/vinland-saga-season-2-kwo44/ep-1",
+      "domainName": "Anime Suge",
+      "homepage": "https://animesuge.to/home",
+      "isExternal": false,
+      "order": 1
+    },
+    {
+      "title": "Bleach: Thousand-Year Blood War",
+      "description": "Action, Adventure, Fantasy",
+      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/pending-1686410901-images.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Yugen.png",
+      "actionUrl": "https://yugenanime.tv/watch/15983/bleach-sennen-kessen-hen/1/",
+      "domainName": "FOR AD",
+      "homepage": "https://yugenanime.tv/",
+      "order": -1
+    }
+  ]
 }
