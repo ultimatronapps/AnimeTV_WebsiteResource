@@ -4,13 +4,13 @@
         "website_link": "https://www.profitablegatecpm.com/t9z1w9vtd4?key=00a77dd30d4f9d7169bd0a2610a37ecc",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Support.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Support.png",
-        "order": -5
+        "order": -10
     },{
         "website_name": "AniWave",
         "website_link": "https://aniwave.vc/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/9anime.jpeg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/9anime.png",
-        "order": 7
+        "order": -7
     }, {
         "website_name": "AnimeDao",
         "website_link": "https://animedao.to/",
@@ -40,7 +40,7 @@
         "website_link": "https://animesuge.to/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Suge.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
-        "order": 1
+        "order": -8
     }, {
         "website_name": "AnimePahe",
         "website_link": "https://www.animepahe.ru",
@@ -64,7 +64,7 @@
         "website_link": "https://aniwatch.nz/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/logo.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
-        "order": 0
+        "order": -9
     }, {
         "website_name": "marin",
         "website_link": "https://marin.moe/",
@@ -76,13 +76,13 @@
         "website_link": "https://animenana.com/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AnimeNana.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/animenana.png",
-        "order": 5
+        "order": -6
     }, {
         "website_name": "Gogo Anime",
         "website_link": "https://anitaku.to/home.html",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/GogoAnime.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/GogoAnime.png",
-        "order": 5
+        "order": -5
     }, {
         "website_name": "animeflv",
         "website_link": "https://www3.animeflv.net/",
