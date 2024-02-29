@@ -66,6 +66,12 @@
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
         "order": -9
     }, {
+        "website_name": "AniWatch 2",
+        "website_link": "https://kaido.to/home",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/kaido.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/kaido.png",
+        "order": -9
+    }, {
         "website_name": "marin",
         "website_link": "https://marin.moe/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/marin.jpg",
