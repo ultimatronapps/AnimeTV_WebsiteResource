@@ -1,0 +1,9 @@
+{
+    "update": [ {
+		"title": "New Update available!",
+		"description": "Added Watchlist and Readlist \nBug fixes",
+		"button": "Download",
+		"downloadUrl": "https://www.google.com",
+		"version_code": 101
+    }]
+}
