@@ -6,9 +6,9 @@
 			"description": "",
 			"banner": "",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
-			"actionUrl": "https://aniwatchtv.to",
-			"domainName": "AniWatch",
-			"homepage": "https://aniwatch.to/home",
+			"actionUrl": "https://hianime.to/",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
 			"order": 1
 		}, {
 			"title": "/filter?keyword=",
@@ -42,9 +42,9 @@
 			"description": "",
 			"banner": "",
 			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/GogoAnime.png",
-			"actionUrl": "https://gogoanimehd.io",
+			"actionUrl": "https://anitaku.to/",
 			"domainName": "Gogo Anime",
-			"homepage": "https://gogoanimehd.io/",
+			"homepage": "https://anitaku.to/home.html",
 			"order": 5
 		}]
 	}, {
