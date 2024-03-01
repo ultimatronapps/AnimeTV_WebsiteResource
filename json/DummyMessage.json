@@ -2,7 +2,7 @@
     "message": [
 {
 		"title": "New Update Available!",
-		"description": "Major bug fixes install our new app now.",
+		"description": "Major bug fixes implemented install our new app now.",
 		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/download%20icon.png",
 		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch%20Logo%20Main.png",
 		"actionUrl": "https://aniwatch.watch/aniwatch-1-1-0-beta/",
@@ -13,7 +13,7 @@
 		"order": 1
     }, {
 		"title": "No more error or buffering!",
-		"description": "Now videos will play smoothly than ever",
+		"description": "Now videos will play more smoothly than ever",
 		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch%20Logo%20Main.png",
 		"actionUrl": "https://aniwatch.watch/",
@@ -24,7 +24,7 @@
 		"order": 2
     }, {
 		"title": "Any issues?",
-		"description": "Let us know if any issues occurs in this update.",
+		"description": "Please let us know if any issues occurs with this update.",
 		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch%20Logo%20Main.png",
 		"actionUrl": "https://aniwatch.watch/",
