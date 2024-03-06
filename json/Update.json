@@ -1,12 +1,12 @@
 {
     "update": [ {
-		"title": "1.0.5",
-		"description": "Added Watchlist and Readlist \nBug fixes",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/message%20promo.jpg",
+		"title": "Download New Updated App",
+		"description": "Added new features \nBug fixes",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-		"actionUrl": "https://github.com/u23j23s/z/raw/main/animeindia.apk",
-		"domainName": "Zoro",
-		"homepage": "https://zoro.to/home",
+		"actionUrl": "https://aniwatch.watch/",
+		"domainName": "AniWatch",
+		"homepage": "https://aniwatch.watch/",
 		"isExternal": true,
 		"order": 14
     }]
