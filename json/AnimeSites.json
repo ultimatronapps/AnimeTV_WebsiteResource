@@ -60,12 +60,6 @@
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Yugen.png",
         "order": 2
     }, {
-        "website_name": "Old AniWatch",
-        "website_link": "https://aniwatch.nz/home",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/logo.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
-        "order": -9
-    }, {
         "website_name": "AniWatch/HiAnime",
         "website_link": "https://hianime.to/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.jpg",
