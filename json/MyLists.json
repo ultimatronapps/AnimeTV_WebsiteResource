@@ -1,6 +1,144 @@
 {
-    "my_lists": [ 
-	{
+    "my_lists": [
+    {
+		"order": -5,
+	    "New Releases": [ {
+			"title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+			"description": "Action, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1136/141893.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/demon-slayer-kimetsu-no-yaiba-hashira-training-arc-19045",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 1
+		}, {
+			"title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+			"description": "Adventure, Comedy, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1758/141268.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/konosuba-gods-blessing-on-this-wonderful-world-3-19108",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 2
+		}, {
+			"title": "Tensei shitara Slime Datta Ken 3rd Season",
+			"description": "Action, Adventure, Comedy, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1587/141789.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/that-time-i-got-reincarnated-as-a-slime-season-3-19109",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 3
+		}, {
+			"title": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+			"description": "Adventure, Drama, Fantasy, Ecchi",
+			"banner": "https://cdn.myanimelist.net/images/anime/1876/141251.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/mushoku-tensei-jobless-reincarnation-season-2-part-2-19147",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 4
+		}, {
+			"title": "My Hero Academia Season 7",
+			"description": "Action",
+			"banner": "https://cdn.myanimelist.net/images/anime/1529/140306.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/my-hero-academia-season-7-19146",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 5
+		}, {
+			"title": "Kaiju No. 8",
+			"description": "Action, Sci-Fi",
+			"banner": "https://cdn.myanimelist.net/images/anime/1370/140362.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/kaiju-no-8-19145",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 6
+		}, {
+			"title": "The Misfit of Demon King Academy II Part 2",
+			"description": "Action, Fantasy",
+			"banner": "https://cdn.myanimelist.net/images/anime/1399/141651.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/the-misfit-of-demon-king-academy-ii-part-2-17681",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 7
+		}, {
+			"title": "Wind Breaker",
+			"description": "Action",
+			"banner": "https://cdn.myanimelist.net/images/anime/1438/141816.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/wind-breaker-19136",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 8
+		}, {
+			"title": "The Irregular at Magic High School Season 3",
+			"description": "Action, Fantasy, Romance, Sci-Fi",
+			"banner": "https://cdn.myanimelist.net/images/anime/1100/142255.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/the-irregular-at-magic-high-school-season-3-19142",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 9
+		}, {
+			"title": "Date A Live V",
+			"description": "Action, Fantasy, Romance, Sci-Fi",
+			"banner": "https://cdn.myanimelist.net/images/anime/1659/141438.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/date-a-live-v-19144",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 10
+		}, {
+			"title": "An Archdemon's Dilemma: How to Love Your Elf Bride",
+			"description": "Action, Fantasy, Romance",
+			"banner": "https://cdn.myanimelist.net/images/anime/1346/141203.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/an-archdemons-dilemma-how-to-love-your-elf-bride-19130",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 11
+		}, {
+			"title": "Jiisan Baasan Wakagaeru",
+			"description": "Comedy, Romance, Supernatural",
+			"banner": "https://cdn.myanimelist.net/images/anime/1676/141714.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/grandpa-and-grandma-turn-young-again-19134",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 12
+		}, {
+			"title": "Yuru Camp△ Season 3",
+			"description": "Slice of Life",
+			"banner": "https://cdn.myanimelist.net/images/anime/1977/142049.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/laid-back-camp-season-3-19141",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 13
+		}, {
+			"title": "Black Butler: Public School Arc",
+			"description": "Action, Fantasy, Mystery",
+			"banner": "https://cdn.myanimelist.net/images/anime/1505/141820.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/black-butler-public-school-arc-19137",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 14
+		}, {
+			"title": "Hibike! Euphonium 3",
+			"description": "Drama",
+			"banner": "https://cdn.myanimelist.net/images/anime/1216/142086.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/sound-euphonium-3-15728",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 15
+		}]
+	},	{
 		"order" : 1,
 		"Top Spring 2023": [ {
 			"title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
@@ -197,7 +335,7 @@
 		}]
 	}, {
 		"order": -3,
-	    "Top Fall Shows": [ {
+	    "Top Fall 2023": [ {
 			"title": "The Rising of the Shield Hero Season 3",
 			"description": "Action, Adventure, Drama, Fantasy",
 			"banner": "https://cdn.myanimelist.net/images/anime/1317/139802.jpg",
@@ -317,7 +455,7 @@
 		}]
 	}, {
 		"order": -4,
-	    "New Releases": [ {
+	    "Top Winter 2024": [ {
 			"title": "Solo Leveling",
 			"description": "Action, Adventure, Fantasy",
 			"banner": "https://cdn.myanimelist.net/images/anime/1170/138393.jpg",
