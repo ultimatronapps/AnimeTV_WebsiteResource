@@ -1,3 +1,16 @@
 {
-    "message": [ ]
+    "message": [{
+		"title": "Ignore Play Service Warning!",
+		"description": "Google Play Protect may alert users because our app is not on the Play Store; rest assured, it meets high security standards and is safe to download directly from our official website.",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/notice.png",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch%20Logo%20Main.png",
+		"actionUrl": "https://aniwatch.watch/blog/important-information-about-google-play-protect-notifications/",
+		"domainName": "Aniwatch",
+		"homepage": "https://aniwatch.watch",
+        "actionButton": "Read more",
+        "cancelButton": "Okay",
+        "messageType": 2,
+		"isExternal": false,
+		"order": 1
+    }]
 }
