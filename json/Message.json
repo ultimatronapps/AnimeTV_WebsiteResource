@@ -1,5 +1,18 @@
 {
     "message": [{
+		"title": "🎉 Join Us for App Testing and More Fun!",
+		"description": "We're looking for beta testers to help improve our new app. Be the first to try it out and enjoy exclusive perks! \n See you there! \n - Ultimatron",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/discord%20notice.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch%20Logo%20Main.png",
+		"actionUrl": "https://discord.gg/FqAmkcVN",
+		"domainName": "Discord",
+		"homepage": "https://discord.gg/FqAmkcVN",
+        "actionButton": "Join Now",
+        "cancelButton": "later",
+        "messageType": 2,
+		"isExternal": true,
+		"order": 1
+    }, {
 		"title": "Ignore Play Service Warning!",
 		"description": "Google Play Protect may alert users because our app is not on the Play Store; rest assured, it meets high security standards and is safe to download directly from our official website.",
 		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/play.png",
@@ -9,7 +22,7 @@
 		"homepage": "https://aniwatch.watch",
         "actionButton": "Read more",
         "cancelButton": "Okay",
-        "messageType": 0,
+        "messageType": 4,
 		"isExternal": false,
 		"order": 2
     }]
