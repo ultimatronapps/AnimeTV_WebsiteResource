@@ -9,7 +9,7 @@
 		"homepage": "https://aniwatch.watch",
         "actionButton": "Read more",
         "cancelButton": "Okay",
-        "messageType": 4,
+        "messageType": 0,
 		"isExternal": false,
 		"order": 2
     }]
