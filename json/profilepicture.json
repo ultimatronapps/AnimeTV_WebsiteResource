@@ -1,1 +1,63 @@
-
+{
+    "pfp": [ {
+        "pfp_name": "Goku",
+        "pfp_link": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/profilepics/goku%202.jpg",
+        "pfp_id": "pfp1",
+        "order": 1
+    },{
+        "pfp_name": "Naruto",
+        "pfp_link": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/profilepics/naruto.jpg",
+        "pfp_id": "pfp2",
+        "order": 2
+    },{
+        "pfp_name": "Vegeta",
+        "pfp_link": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/profilepics/vegeta%202.jpg",
+        "pfp_id": "pfp3",
+        "order": 3
+    },{
+        "pfp_name": "Zoro",
+        "pfp_link": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/profilepics/zoro.jpg",
+        "pfp_id": "pfp4",
+        "order": 4
+    },{
+        "pfp_name": "Tanjiro",
+        "pfp_link": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/profilepics/tanjiro.jpg",
+        "pfp_id": "pfp5",
+        "order": 5
+    },{
+        "pfp_name": "Hinata",
+        "pfp_link": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/profilepics/hinata.jpg",
+        "pfp_id": "pfp6",
+        "order": 6
+    },{
+        "pfp_name": "Sasuke",
+        "pfp_link": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/profilepics/sasuke.jpg",
+        "pfp_id": "pfp7",
+        "order": 7
+    },{
+        "pfp_name": "Nami",
+        "pfp_link": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/profilepics/nami.jpg",
+        "pfp_id": "pfp8",
+        "order": 8
+    },{
+        "pfp_name": "Sanji",
+        "pfp_link": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/profilepics/sanji.jpg",
+        "pfp_id": "pfp9",
+        "order": 9
+    },{
+        "pfp_name": "Midoriya",
+        "pfp_link": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/profilepics/midoriya.jpg",
+        "pfp_id": "pfp10",
+        "order": 10
+    },{
+        "pfp_name": "Bakugo",
+        "pfp_link": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/profilepics/bakugo.jpg",
+        "pfp_id": "pfp11",
+        "order": 11
+    },{
+        "pfp_name": "Bulma",
+        "pfp_link": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/profilepics/bulma.jpg",
+        "pfp_id": "pfp12",
+        "order": 12
+    }]
+}
