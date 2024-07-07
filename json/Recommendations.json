@@ -54,6 +54,16 @@
       "homepage": "https://hianime.to/home",
       "isExternal": false,
       "order": 5
+    },
+    {
+      "title": "Bleach: Thousand-Year Blood War",
+      "description": "Action, Adventure, Fantasy",
+      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/pending-1686410901-images.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Yugen.png",
+      "actionUrl": "https://yugenanime.tv/watch/15983/bleach-sennen-kessen-hen/1/",
+      "domainName": "FOR AD",
+      "homepage": "https://yugenanime.tv/",
+      "order": -1
     }
   ]
 }
