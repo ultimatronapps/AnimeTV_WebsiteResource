@@ -1,8 +1,137 @@
 {
     "my_lists": [
     {
-		"order": -5,
+		"order": -6,
 	    "New Releases": [ {
+			"title": "Oshi no Ko 2nd Season",
+			"description": "Drama, Supernatural, Reincarnation, Seinen",
+			"banner": "https://cdn.myanimelist.net/images/anime/1006/143302.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/oshi-no-ko-season-2-19256",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 1
+		}, {
+			"title": "Tower of God Season 2",
+			"description": "Action, Adventure, Drama, Fantasy, Mystery",
+			"banner": "https://cdn.myanimelist.net/images/anime/1107/143536.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/tower-of-god-season-2-19255",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 2
+		}, {
+			"title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+			"description": "Comedy, Romance, School",
+			"banner": "https://cdn.myanimelist.net/images/anime/1825/142258.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/alya-sometimes-hides-her-feelings-in-russian-19254",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 3
+		}, {
+			"title": "Fairy Tail: 100-nen Quest",
+			"description": "Action, Adventure, Fantasy, Shounen",
+			"banner": "https://cdn.myanimelist.net/images/anime/1417/143241.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/fairy-tail-100-years-quest-19253",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 4
+		}, {
+			"title": "Suicide Squad Isekai",
+			"description": "Action, Fantasy,Isekai",
+			"banner": "https://cdn.myanimelist.net/images/anime/1644/142052.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/suicide-squad-isekai-19252",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 5
+		}, {
+			"title": "Days with My Stepsister",
+			"description": "Romance",
+			"banner": "https://cdn.myanimelist.net/images/anime/1420/143707.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/days-with-my-stepsister-19251",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 6
+		}, {
+			"title": "My Deer Friend Nokotan",
+			"description": "Comedy, Gag Humor, School, Shounen",
+			"banner": "https://cdn.myanimelist.net/images/anime/1094/143324.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/my-deer-friend-nokotan-19249",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 7
+		}, {
+			"title": "Giji Harem",
+			"description": "Slice of Life, Romantic Subtext, School, Shounen",
+			"banner": "https://cdn.myanimelist.net/images/anime/1607/143547.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/pseudo-harem-19246",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 8
+		}, {
+			"title": "Our Last Crusade or the Rise of a New World Season 2",
+			"description": "Action, Fantasy, Romance, Military",
+			"banner": "https://cdn.myanimelist.net/images/anime/1660/143460.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/our-last-crusade-or-the-rise-of-a-new-world-season-2-19250",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 9
+		}, {
+			"title": "NieR:Automata Ver1.1a Part 2",
+			"description": "Action, Fantasy, Sci-Fi",
+			"banner": "https://cdn.myanimelist.net/images/anime/1364/143539.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/nierautomata-ver11a-cour-2-19248",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 10
+		}, {
+			"title": "Isekai Shikkaku",
+			"description": "Adventure, Comedy, Fantasy, Isekai, Parody",
+			"banner": "https://cdn.myanimelist.net/images/anime/1252/143457.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/no-longer-allowed-in-another-world-19247",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 11
+		}, {
+			"title": "The Strongest Magician in the Demon Lord's Army Was a Human",
+			"description": "Action, Adventure, Fantasy, Isekai, Reincarnation",
+			"banner": "https://cdn.myanimelist.net/images/anime/1814/143744.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/the-strongest-magician-in-the-demon-lords-army-was-a-human-19238",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 12
+		}, {
+			"title": "Nige Jouzu no Wakagimi",
+			"description": "Adventure, Comedy, Historical, Samurai, Shounen",
+			"banner": "https://cdn.myanimelist.net/images/anime/1386/140401.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/the-elusive-samurai-19233",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 13
+		}, {
+			"title": "Shoushimin Series",
+			"description": "Mystery",
+			"banner": "https://cdn.myanimelist.net/images/anime/1164/143459.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+			"actionUrl": "https://hianime.to/shoshimin-how-to-become-ordinary-19242",
+			"domainName": "AniWatch/HiAnime",
+			"homepage": "https://hianime.to/home",
+			"order": 14
+		}]
+	},  {
+		"order": -5,
+	    "Top Spring 2024": [ {
 			"title": "Kimetsu no Yaiba: Hashira Geiko-hen",
 			"description": "Action, Fantasy",
 			"banner": "https://cdn.myanimelist.net/images/anime/1136/141893.jpg",
