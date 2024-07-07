@@ -1,69 +1,59 @@
 {
   "recommendation": [
     {
-      "title": "Solo Leveling",
-      "description": "Action, Adventure, Fantasy",
-      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/1061827.png",
-      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/MangaReader.png",
-      "actionUrl": "https://mangareader.to/read/solo-leveling-21/en/chapter-0",
-      "domainName": "MangaReader",
-      "homepage": "https://mangareader.to/home",
+      "title": "Kimetsu no Yaiba",
+      "description": "Action, Fantasy, Historical, Shounen",
+	  "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Seasonal%20Anime%20Pics/Recommend%20Pics/Recommendation%20banner%201.jpg",
+	  "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+	  "actionUrl": "https://hianime.to/demon-slayer-kimetsu-no-yaiba-47",
+      "domainName": "AniWatch/HiAnime",
+      "homepage": "https://hianime.to/home",
       "isExternal": false,
       "order": 2
     },
     {
-      "title": "Mashle: Magic and Muscles",
-      "description": "Action, Comedy, Fantasy",
-      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/1305364.jpeg",
-      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
-      "actionUrl": "https://hianime.to/watch/mashle-magic-and-muscles-18339?ep=100069",
+      "title": "Attack On Titan",
+      "description": "Action, Drama, Suspense, Gore, Military, Survival",
+      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Seasonal%20Anime%20Pics/Recommend%20Pics/Recommendation%20banner%203.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+      "actionUrl": "https://hianime.to/attack-on-titan-112",
+      "domainName": "AniWatch/HiAnime",
+      "homepage": "https://hianime.to/home",
+      "isExternal": false,
+      "order": 1
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "description": "Action, Fantasy, School, Shounen",
+      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Seasonal%20Anime%20Pics/Recommend%20Pics/Recommendation%20banner%202.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+      "actionUrl": "https://hianime.to/jujutsu-kaisen-tv-534",
       "domainName": "AniWatch/HiAnime",
       "homepage": "https://hianime.to/home",
       "isExternal": false,
       "order": 3
     },
     {
-      "title": "Demon Slayer: Swordsmith Village Arc",
-      "description": "Action, Fantasy",
-      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/maxresdefault.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
-      "actionUrl": "https://hianime.to/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056?ep=100090",
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "description": "Action, Adventure, Drama, Fantasy, Military, Shounen",
+      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Seasonal%20Anime%20Pics/Recommend%20Pics/Recommendation%20banner%204.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+      "actionUrl": "https://hianime.to/fullmetal-alchemist-brotherhood-1",
       "domainName": "AniWatch/HiAnime",
       "homepage": "https://hianime.to/home",
       "isExternal": false,
       "order": 4
     },
     {
-      "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
-      "description": "Action, Adventure, Fantasy",
-      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/vGcu194Jk4I06u69iNf2rhU3d62.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/AniWatch%20Logo.png",
-      "actionUrl": "https://hianime.to/watch/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-18343?ep=99965",
+      "title": "Hunter x Hunter (2011)",
+      "description": "Action, Adventure, Fantasy, Shounen",
+      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Seasonal%20Anime%20Pics/Recommend%20Pics/Recommendation%20banner%205.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatchNew.png",
+      "actionUrl": "https://hianime.to/hunter-x-hunter-2",
       "domainName": "AniWatch/HiAnime",
       "homepage": "https://hianime.to/home",
       "isExternal": false,
       "order": 5
-    },
-    {
-      "title": "Vinland Saga Season 2",
-      "description": "Action, Adventure, Drama",
-      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Screenshot%202023-05-18%20193315.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
-      "actionUrl": "https://animesuge.to/anime/vinland-saga-season-2-kwo44/ep-1",
-      "domainName": "Anime Suge",
-      "homepage": "https://animesuge.to/home",
-      "isExternal": false,
-      "order": 1
-    },
-    {
-      "title": "Bleach: Thousand-Year Blood War",
-      "description": "Action, Adventure, Fantasy",
-      "banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/pending-1686410901-images.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Yugen.png",
-      "actionUrl": "https://yugenanime.tv/watch/15983/bleach-sennen-kessen-hen/1/",
-      "domainName": "FOR AD",
-      "homepage": "https://yugenanime.tv/",
-      "order": -1
     }
   ]
 }
