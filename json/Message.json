@@ -11,19 +11,19 @@
         "cancelButton": "later",
         "messageType": 2,
 		"isExternal": true,
-		"order": 1
+		"order": 2
     }, {
-		"title": "Ignore Play Service Warning!",
-		"description": "Google Play Protect may alert users because our app is not on the Play Store; rest assured, it meets high security standards and is safe to download directly from our official website.",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/play.png",
+		"title": "Download New Version Here",
+		"description": "Fixed White Screen Issue ",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/refs/heads/main/thumbnail/Update%20Notice%20Logo.png",
 		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch%20Logo%20Main.png",
-		"actionUrl": "https://discord.com/invite/xqe7d2gnr3",
+		"actionUrl": "https://drive.google.com/file/d/1BjDaobacZPU_SydYx_C8ivwyBWfWtq_D/view?usp=sharing",
 		"domainName": "Aniwatch",
 		"homepage": "https://discord.gg/FqAmkcVN",
         "actionButton": "Read more",
         "cancelButton": "Okay",
         "messageType": 4,
 		"isExternal": true,
-		"order": 2
+		"order": 1
     }]
 }
