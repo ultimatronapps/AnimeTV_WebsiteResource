@@ -1,37 +1,15 @@
 {
     "message": [
 {
-		"title": "New Update Available!",
-		"description": "Major bug fixes implemented install our new app now.",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/download%20icon.png",
+		"title": "Download New Version Here",
+		"description": "Major bug fixes, Fixed White Screen Issue",
+		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/refs/heads/main/thumbnail/Update%20Notice%20Logo.png",
 		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch%20Logo%20Main.png",
-		"actionUrl": "https://aniwatch.watch/aniwatch-1-1-0-beta/",
+		"actionUrl": "https://drive.google.com/file/d/1BjDaobacZPU_SydYx_C8ivwyBWfWtq_D/view?usp=sharing",
 		"domainName": "Aniwatch",
 		"homepage": "https://aniwatch.watch",
         	"messageType": 0,
 		"isExternal": true,
 		"order": 1
-    }, {
-		"title": "No more error or buffering!",
-		"description": "Now videos will play more smoothly than ever",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch%20Logo%20Main.png",
-		"actionUrl": "https://aniwatch.watch/",
-		"domainName": "Aniwatch",
-		"homepage": "https://aniwatch.watch",
-        	"messageType": 0,
-		"isExternal": true,
-		"order": 2
-    }, {
-		"title": "Any issues?",
-		"description": "Please let us know if any issues occurs with this update.",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch%20Logo%20Main.png",
-		"actionUrl": "https://aniwatch.watch/",
-		"domainName": "Aniwatch",
-		"homepage": "https://aniwatch.watch",
-        	"messageType": 0,
-		"isExternal": true,
-		"order": 3
     }]
 }
