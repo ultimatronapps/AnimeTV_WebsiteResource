@@ -1,7 +1,7 @@
 {
     "update": [ {
 		"title": "New Update available!",
-		"description": "Major bug fixes, Fixed White Screen Issue",
+		"description": "Major bug fixes, Fixed White Screen Issue /n Ignore this if you’ve already downloaded the app",
 		"button": "Download Now",
 		"downloadUrl": "https://drive.google.com/file/d/1BjDaobacZPU_SydYx_C8ivwyBWfWtq_D/view?usp=sharing",
 		"version_code": 13
