@@ -1,9 +1,9 @@
 {
     "update": [ {
 		"title": "New Update available!",
-		"description": "Added Watchlist and Readlist \nBug fixes",
-		"button": "Download",
-		"downloadUrl": "https://www.google.com",
-		"version_code": 12
+		"description": "Major bug fixes, Fixed White Screen Issue",
+		"button": "Download Now",
+		"downloadUrl": "https://drive.google.com/file/d/1BjDaobacZPU_SydYx_C8ivwyBWfWtq_D/view?usp=sharing",
+		"version_code": 13
     }]
 }
