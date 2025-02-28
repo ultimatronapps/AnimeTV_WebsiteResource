@@ -1,13 +1,3 @@
 {
-    "update": [ {
-		"title": "Download New Updated App",
-		"description": "Added new features \nBug fixes",
-		"banner": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AniWatch.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Zoro.png",
-		"actionUrl": "https://aniwatch.watch/",
-		"domainName": "AniWatch",
-		"homepage": "https://aniwatch.watch/",
-		"isExternal": true,
-		"order": 14
-    }]
+    "update": [ {}]
 }
