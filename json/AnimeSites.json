@@ -12,41 +12,23 @@
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Gojo.png",
         "order": 2
     }, {
-        "website_name": "Miruro",
-        "website_link": "https://www.miruro.tv/",
+        "website_name": "AnimeKai",
+        "website_link": "https://animekai.bz/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Miruro.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Miruro.png",
         "order": 3
     }, {
-        "website_name": "AnimeOwl",
-        "website_link": "https://animeowl.live/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AnimeOwl.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AnimeOwl.png",
-        "order": 3
-    }, {
-        "website_name": "Yugen",
-        "website_link": "https://yugenanime.tv/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Yugen_BetterUI.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Yugen.png",
-        "order": 5
-    }, {
-        "website_name": "Shiroko",
-        "website_link": "https://shiroko.co/en",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Shiroko.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Shiroko.png",
-        "order": 5
-    }, {
-        "website_name": "AnimeZ",
-        "website_link": "https://animez.org/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AZ.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AZ.png",
-        "order": 6
+        "website_name": "AnimeNexus",
+        "website_link": "https://anime.nexus/",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Miruro.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Miruro.png",
+        "order": 4
     }, {
         "website_name": "Kaido",
         "website_link": "https://kaido.to/home",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/kaido.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/kaido.png",
-        "order": 7
+        "order": 5
     }, {
         "website_name": "AnimeNana",
         "website_link": "https://animenana.com/",
@@ -54,58 +36,10 @@
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/animenana.png",
         "order": 8
     }, {
-        "website_name": "Gogo Anime",
-        "website_link": "https://anitaku.to/home.html",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/GogoAnime.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/GogoAnime.png",
-        "order": 9
-    }, {
-        "website_name": "AllAnime",
-        "website_link": "https://allanime.to/anime",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AllAnime.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/allanime.png",
-        "order": 10
-    }, {
-        "website_name": "marin",
-        "website_link": "https://marin.moe/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/marin.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/marin.png",
-        "order": 11
-    }, {
-        "website_name": "AnimePahe",
-        "website_link": "https://www.animepahe.ru",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/animepahe.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/animepahe.png",
-        "order": 12
-    }, {
         "website_name": "animeflv",
         "website_link": "https://www3.animeflv.net/",
         "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/AnimeFly.jpg",
         "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/animefly.png",
         "order": 13
-    }, {
-        "website_name": "Anime Suge",
-        "website_link": "https://animesuge.to/home",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Suge.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Suge.png",
-        "order": 21
-    }, {
-        "website_name": "AniWave",
-        "website_link": "https://aniwavetv.to/home",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/9anime.jpeg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/9anime.png",
-        "order": 22
-    }, {
-        "website_name": "Anix",
-        "website_link": "https://anix.vc/home",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Anix.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/Anix%20Cir.png",
-        "order": 23
-    }, {
-        "website_name": "AnimixPlay",
-        "website_link": "https://animixplay.sc/homepage/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Animix.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/thumbnail/Animix.png",
-        "order": 24
     }]
 }
