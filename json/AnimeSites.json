@@ -14,14 +14,14 @@
     }, {
         "website_name": "AnimeKai",
         "website_link": "https://animekai.bz/home",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Miruro.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Miruro.png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/refs/heads/main/logo/AnimeKai.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/refs/heads/main/logo/AnimeKai.png",
         "order": 3
     }, {
         "website_name": "AnimeNexus",
         "website_link": "https://anime.nexus/",
-        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Miruro.jpg",
-        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/main/logo/Miruro.png",
+        "website_logo": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/refs/heads/main/logo/AnimeNexus.jpg",
+        "website_thumbnail": "https://raw.githubusercontent.com/ultimatronapps/AnimeTV_WebsiteResource/refs/heads/main/logo/AnimeNexus.png",
         "order": 4
     }, {
         "website_name": "Kaido",
